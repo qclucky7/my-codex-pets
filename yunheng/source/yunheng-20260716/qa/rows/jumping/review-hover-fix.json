@@ -1,0 +1,101 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [
+    "jumping used extraction method stable-slots; component extraction is preferred"
+  ],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8554,
+          "bbox": [
+            51,
+            49,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9164,
+          "bbox": [
+            48,
+            35,
+            144,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9155,
+          "bbox": [
+            46,
+            5,
+            146,
+            158
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9129,
+          "bbox": [
+            48,
+            36,
+            144,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8587,
+          "bbox": [
+            51,
+            50,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        }
+      ]
+    }
+  ]
+}

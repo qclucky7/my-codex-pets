@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "petId": "yunheng",
+  "displayName": "云珩",
+  "spriteVersionNumber": 2,
+  "status": "installed-with-hover-dragon-repair",
+  "runDirectory": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716",
+  "finalSpritesheet": "D:\\github\\codex-chat-callback\\pet-runs\\yunheng-20260716\\final\\spritesheet-extended.webp",
+  "installedDirectory": "C:\\Users\\WangChen\\.codex\\pets\\yunheng",
+  "installedSpritesheet": "C:\\Users\\WangChen\\.codex\\pets\\yunheng\\spritesheet.webp",
+  "sha256": "C841C107C094CB0300D78743A68896DC1CD2C2F0B0B933E63FF6E6E0F78468AE",
+  "validation": {
+    "atlas": "pass",
+    "dimensions": "1536x2288",
+    "grid": "8x11",
+    "standardAnimations": "pass",
+    "hardDirectionGates": "pass",
+    "blindDirectionValidation": "pass-with-review-warnings",
+    "installedAtlas": "pass",
+    "hoverDragonAnimation": "pass"
+  },
+  "warnings": [
+    "337.5-to-000 direction-loop transition has a visible but non-blocking scale/position pop.",
+    "Some intermediate diagonal directions have subtle horizontal or vertical components."
+  ]
+}

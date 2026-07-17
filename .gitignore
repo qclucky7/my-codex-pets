@@ -1,0 +1,26 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Tool caches and temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+node_modules/
+tmp/
+temp/
+*.tmp
+*.log
+
+# Keep pet source, QA artifacts, previews, and release images tracked.
