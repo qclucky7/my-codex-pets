@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "state": "jumping",
+  "semanticPurpose": "mouse-hover fox-paw imitation",
+  "visualQa": "pass",
+  "note": "The five-frame hover row keeps both feet planted, raises both elbows and loosely curled hands beside the face as playful fox paws, preserves Yinyue's identity, and returns cleanly to neutral without combat, spellcasting, effects, cropping, or scale popping.",
+  "directionRegression": "pass",
+  "acceptedWarnings": [
+    "112.5 down-right retains the previously accepted subtle downward cue."
+  ],
+  "repairRows": []
+}

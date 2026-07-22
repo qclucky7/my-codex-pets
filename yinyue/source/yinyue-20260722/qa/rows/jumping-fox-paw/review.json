@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\jumping-fox-paw\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\jumping-fox-paw\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11313,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\jumping-fox-paw\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12304,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\jumping-fox-paw\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11937,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\jumping-fox-paw\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11847,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\jumping-fox-paw\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11322,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        }
+      ]
+    }
+  ]
+}

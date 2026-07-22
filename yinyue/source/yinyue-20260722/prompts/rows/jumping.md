@@ -1,18 +1,20 @@
-Create one horizontal animation strip for Codex pet `yinyue`, state `jumping`.
+Create one horizontal animation strip for Codex pet `yinyue`, state `jumping` (the Codex mouse-hover trigger).
 
-Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
+Use the attached canonical base only for the pet's identity and rendering style. Use the attached anime screenshot only as pose and personality reference. Use the attached layout guide only for slot count, spacing, centering, and padding; do not copy its guide marks.
 
-Output exactly 5 full-body frames in one left-to-right row on flat pure magenta #FF00FF. Treat the row as 5 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
+Output exactly 5 full-body frames in one left-to-right row on a perfectly flat pure magenta #FF00FF background. Treat the row as 5 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: 凡人修仙传动漫银月的人形造型。娇小灵动的银发狐耳少女，长银白发，银白狐耳带简化金属耳环，一蓝一琥珀异色瞳；月白银纹短裙、红色束腰，白色绒毛领与袖口，白色长靴。气质俏皮可爱又带灵狐机敏，比例为适合桌面 pet 的 Q 版人形全身，不携带武器。. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
-Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: 高品质中国3D动漫风格的Q版角色，约3头身，清晰整洁的硬边造型，服饰细节简化但有质感，适合缩小到192x208像素；保持银发、狐耳、异色瞳、红腰带为固定辨识点。.
-Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
+Identity: the same compact chibi humanoid Yin Yue in every frame: long silver-white hair, upright silver fox ears, simple metal ear ornament, blue-and-amber heterochromia, moon-white silver-patterned short dress, red waist sash, white fur collar and sleeve cuffs, and white boots. Preserve the canonical base's face, proportions, palette, materials, silhouette, and Chinese 3D donghua style.
 
-State action: Hover jump loop: anticipation, lift, airborne peak, descent, and settle through body height.
+State action: replace the jump completely with Yin Yue's playful fox-paw imitation from the anime introduction. She stays standing on the same baseline for the entire loop. The five poses are:
+1. relaxed neutral stance, noticing the cursor;
+2. fox ears perk and both elbows begin lifting outward;
+3. both forearms rise beside the face, wrists gently bent down, fingers loosely curled into soft paw shapes;
+4. hold the full fox-paw pose with a tiny alternating paw bob, wide curious eyes, a slight forward lean, and a small open-mouth playful expression;
+5. lower the hands toward the matching neutral stance for a clean loop.
 
-State requirements:
-- Show the jump through pose and vertical body position only: anticipation, lift, airborne peak, descent, settle.
-- Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks under the pet.
-- Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
+The hands must read as loose curled fox paws, never hard clenched fists, boxing, fighting, cheering, spellcasting, or threatening. Both hands remain visible beside the face at the peak. Let the broad sleeve cuffs hang naturally and reinforce the paw silhouette. Keep both feet planted; no jump, hop, squat, floating, vertical displacement, or forward lunge.
 
-Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
+Animation continuity: keep apparent scale, body height, baseline, costume, hair length, ear shape, hand count, and face stable. Motion should come only from the arms, wrists, ears, expression, and a restrained upper-body lean.
+
+Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, aura, spell effects, motion marks, detached effects, stray pixels, or #FF00FF inside the pet.

@@ -34,6 +34,10 @@
         {
           "path": "references/canonical-base.png",
           "role": "canonical identity reference"
+        },
+        {
+          "path": "references/anime-fox-paw-pose.png",
+          "role": "anime pose and personality reference for the loose two-hand fox-paw imitation; do not copy the background or realistic proportions"
         }
       ],
       "output_path": "decoded/idle.png",
@@ -185,8 +189,8 @@
       "id": "jumping",
       "kind": "row-strip",
       "status": "complete",
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f876c-4500-7a30-8c13-bbe6499f88b4\\exec-8aad30b9-5c1f-45e0-8bd9-65fda60973f4.png",
-      "completed_at": "2026-07-22T04:25:00Z",
+      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8838-3d23-7b92-8b36-83092b0e55a1\\exec-b89b4515-7b3b-4644-beed-e7a4b9f5d082.png",
+      "completed_at": "2026-07-22T05:19:30.8108669Z",
       "prompt_file": "prompts/rows/jumping.md",
       "retry_prompt_file": "prompts/row-retries/jumping.md",
       "input_images": [

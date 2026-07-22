@@ -1,14 +1,11 @@
-Create Codex pet row `jumping` for `yinyue`: exactly 5 full-body frames in one horizontal strip on flat pure magenta #FF00FF.
+Repair the complete 5-frame `jumping` row for Codex pet `yinyue`. This row is triggered by mouse hover and must contain no jumping.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: 凡人修仙传动漫银月的人形造型。娇小灵动的银发狐耳少女，长银白发，银白狐耳带简化金属耳环，一蓝一琥珀异色瞳；月白银纹短裙、红色束腰，白色绒毛领与袖口，白色长靴。气质俏皮可爱又带灵狐机敏，比例为适合桌面 pet 的 Q 版人形全身，不携带武器。. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the canonical base as the identity reference, the anime screenshot as pose/personality reference, and the five-slot guide for layout only. Draw one coherent five-pose family on perfectly flat #FF00FF.
 
-Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
+Sequence: neutral noticing pose; ears perk while both elbows lift; both forearms rise beside the face; hold the complete playful fox-paw imitation with a tiny alternating paw bob, wide curious eyes, slight forward lean, and small open mouth; lower the hands toward neutral.
 
-Action: Hover jump loop: anticipation, lift, airborne peak, descent, and settle through body height.
+Critical hand construction in frames 3 and 4: both palms face down toward the ground; both wrists droop downward; each of the four fingers is visibly separate and gently hooked downward with small open gaps between fingers and palm, like a cat or fox playfully holding up its front paws. The thumbs stay relaxed at the inner side. Do not close the fingers into the palm. Do not make a fist silhouette. Knuckles must not point upward like cheering fists. Hands should look soft, dangling, delicate, and animal-like.
 
-State requirements:
-- Show the jump through pose and vertical body position only: anticipation, lift, airborne peak, descent, settle.
-- Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks under the pet.
-- Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
+Keep both feet planted on one stable baseline and keep scale identical. No boxing, combat, cheering, spellcasting, hopping, crouching, floating, vertical displacement, or forward lunge. Both hands must be visible beside the face at the peak, with broad sleeve cuffs hanging naturally.
 
-One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #FF00FF colors in the pet.
+Exactly five complete separated full-body poses, one per invisible slot. Preserve long silver hair, silver fox ears and ornament, blue-and-amber eyes, white/silver dress, red sash, fur trim, white boots, chibi Chinese 3D donghua style, and the canonical proportions. No text, scenery, shadows, glows, aura, motion marks, detached effects, guide marks, or magenta inside the pet.

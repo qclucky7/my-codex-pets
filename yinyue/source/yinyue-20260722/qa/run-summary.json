@@ -11,6 +11,12 @@
   "blind_direction_validation": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\direction-blind-validation.json",
   "blind_review_resolution": null,
   "continuity": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\look-continuity.json",
-  "review": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\review.json",
+  "review": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\review-standard-fox-paw.json",
+  "hoverRepair": {
+    "state": "jumping",
+    "semanticPurpose": "mouse-hover fox-paw imitation",
+    "poseReference": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\references\\anime-fox-paw-pose.png",
+    "visualQa": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\fox-paw-hover-visual-qa.json"
+  },
   "package": "D:\\github\\my-codex-pets\\yinyue"
 }
