@@ -7,8 +7,11 @@
 | Pet | 简介 | 格式 | 预览与说明 |
 | --- | --- | --- | --- |
 | 云珩（`yunheng`） | 白发月白仙袍、清冷俊雅的中国古风年轻仙君 | Codex Pet Sprite v2 | [查看 pet](yunheng/README.md) |
+| 银月（`yinyue`） | 银发狐耳、异色瞳与月白短裙的灵动人形少女 | Codex Pet Sprite v2 | [查看 pet](yinyue/README.md) |
 
 ![云珩动作总览](yunheng/assets/contact-sheet.png)
+
+![银月动作总览](yinyue/assets/contact-sheet.png)
 
 ## 仓库结构
 

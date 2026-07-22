@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722",
+  "spritesheet": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\final\\spritesheet-extended.webp",
+  "validation": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\final\\validation-extended.json",
+  "chroma_despill": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\look-directions.png",
+  "direction_semantics": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\direction-semantics.json",
+  "blind_direction_validation": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\look-continuity.json",
+  "review": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\review.json",
+  "package": "D:\\github\\my-codex-pets\\yinyue"
+}

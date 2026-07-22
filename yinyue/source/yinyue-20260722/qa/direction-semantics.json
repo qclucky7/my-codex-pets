@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction": "000", "verdict": "pass", "expected": "up", "observed": "pupils and raised chin point up", "reason": "vertical landmark cue is unmistakable"},
+    {"direction": "022.5", "verdict": "pass", "expected": "up-right", "observed": "upward pupils with nose and head beginning screen-right", "reason": "both axes are visible"},
+    {"direction": "045", "verdict": "pass", "expected": "up-right", "observed": "simultaneous up and screen-right eye and head cues", "reason": "clear diagonal"},
+    {"direction": "067.5", "verdict": "pass", "expected": "up-right", "observed": "strong up-right three-quarter turn", "reason": "correct quadrant approaching right profile"},
+    {"direction": "090", "verdict": "pass", "expected": "right", "observed": "nose, visible pupil, and head face screen-right", "reason": "horizontal landmark cue is unmistakable"},
+    {"direction": "112.5", "verdict": "warning", "expected": "down-right", "observed": "screen-right profile with subtle downward eye cue", "reason": "correct quadrant and loop order; vertical cue is light at normal size"},
+    {"direction": "135", "verdict": "pass", "expected": "down-right", "observed": "lowered gaze and rightward head turn", "reason": "both axes are clear"},
+    {"direction": "157.5", "verdict": "pass", "expected": "down-right", "observed": "strong downward gaze with rightward three-quarter bias", "reason": "correct quadrant approaching down"},
+    {"direction": "180", "verdict": "pass", "expected": "down", "observed": "lowered eyes and tucked chin", "reason": "vertical landmark cue is unmistakable"},
+    {"direction": "202.5", "verdict": "pass", "expected": "down-left", "observed": "downward gaze beginning screen-left turn", "reason": "both axes are visible"},
+    {"direction": "225", "verdict": "pass", "expected": "down-left", "observed": "clear downward and leftward gaze", "reason": "clear diagonal"},
+    {"direction": "247.5", "verdict": "pass", "expected": "down-left", "observed": "stronger screen-left turn retaining lowered gaze", "reason": "correct quadrant approaching left profile"},
+    {"direction": "270", "verdict": "pass", "expected": "left", "observed": "nose, face, and visible eye point screen-left", "reason": "horizontal landmark cue is unmistakable"},
+    {"direction": "292.5", "verdict": "pass", "expected": "up-left", "observed": "screen-left pose with gaze beginning to rise", "reason": "both axes are visible"},
+    {"direction": "315", "verdict": "pass", "expected": "up-left", "observed": "near-frontal upward pose retaining left bias", "reason": "correct quadrant and continuous unwind"},
+    {"direction": "337.5", "verdict": "pass", "expected": "up-left", "observed": "slight leftward head and eye bias with upward gaze", "reason": "one smooth step before frontal up"}
+  ],
+  "continuity_review": "pass; remaining metric warnings are not visually conspicuous at normal size",
+  "alpha_hole_review": "intentional negative space; no filled-body seam or perforation"
+}

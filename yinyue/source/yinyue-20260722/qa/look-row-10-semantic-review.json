@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "directions": [
+    {"direction": "180", "verdict": "pass", "reason": "lowered eyes and tucked chin clearly read down"},
+    {"direction": "202.5", "verdict": "pass", "reason": "downward gaze begins turning screen-left"},
+    {"direction": "225", "verdict": "pass", "reason": "both downward and leftward axes are clear"},
+    {"direction": "247.5", "verdict": "pass", "reason": "stronger left turn retains the lowered gaze"},
+    {"direction": "270", "verdict": "pass", "reason": "nose, face, and visible eye unmistakably point screen-left"},
+    {"direction": "292.5", "verdict": "pass", "reason": "remains screen-left while the gaze begins rising"},
+    {"direction": "315", "verdict": "pass", "reason": "near-frontal pose retains a subtle leftward bias with clear upward eyes"},
+    {"direction": "337.5", "verdict": "pass", "reason": "slight leftward head and eye bias smoothly approaches frontal up"}
+  ],
+  "continuity": {"verdict": "pass", "reason": "ordered loop has stable center and scale with no visible snap, reversal, clipping, or scale pop"},
+  "alpha_holes": {"verdict": "intentional", "reason": "reported rows are ear, hair, skirt, sleeve, and leg negative space rather than filled-body perforations"}
+}

@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "directions": [
+    {"direction": "000", "verdict": "pass", "reason": "pupils and raised chin unmistakably point up"},
+    {"direction": "022.5", "verdict": "pass", "reason": "upward pupils persist while nose and head begin moving screen-right"},
+    {"direction": "045", "verdict": "pass", "reason": "clear simultaneous up and screen-right eye and head cues"},
+    {"direction": "067.5", "verdict": "pass", "reason": "strong up-right three-quarter turn approaching profile"},
+    {"direction": "090", "verdict": "pass", "reason": "nose, visible pupil, and head unmistakably face screen-right"},
+    {"direction": "112.5", "verdict": "warning", "reason": "screen-right profile is clear but the downward eye cue is subtle at normal size"},
+    {"direction": "135", "verdict": "pass", "reason": "lowered gaze and rightward head turn clearly read down-right"},
+    {"direction": "157.5", "verdict": "pass", "reason": "strong downward gaze retains a visible rightward three-quarter bias"}
+  ],
+  "continuity": {"verdict": "pass", "reason": "feet, waist, baseline, scale, ornament, and body registration remain stable without reversal or snapping"}
+}
