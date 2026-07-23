@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11636,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 266
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11388,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10913,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 271
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11164,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10853,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11182,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11430,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 235
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-right-scale-repair\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11192,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        }
+      ]
+    }
+  ]
+}

@@ -63,8 +63,8 @@
       "id": "running-right",
       "kind": "row-strip",
       "status": "complete",
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8769-828d-7c32-8eaf-39387bf63313\\exec-97c92fe9-a829-49c1-bae5-3ac68ae141a2.png",
-      "completed_at": "2026-07-22T01:24:59Z",
+      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8d0d-96aa-7fd2-abc3-3f65af74ea75\\call_R0YIOS73xpU7it3Y4BqUwZq3.png",
+      "completed_at": "2026-07-23T03:55:50.7782231Z",
       "prompt_file": "prompts/rows/running-right.md",
       "retry_prompt_file": "prompts/row-retries/running-right.md",
       "input_images": [
@@ -75,6 +75,10 @@
         {
           "path": "references/canonical-base.png",
           "role": "canonical identity reference"
+        },
+        {
+          "path": "frames/idle/00.png",
+          "role": "approved idle frame and exact target for apparent head diameter, torso width, limb thickness, and body proportions"
         }
       ],
       "output_path": "decoded/running-right.png",
@@ -100,8 +104,8 @@
       "id": "running-left",
       "kind": "row-strip",
       "status": "complete",
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f876d-bf11-7f50-8a1b-169bef69b8f2\\exec-bf82de22-2b5e-4cab-b3fb-bdace4da4695.png",
-      "completed_at": "2026-07-22T01:34:00Z",
+      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8d1e-3306-7eb1-a279-cc5989bc0f97\\call_zUlhm3FOHSULZ0SiI84jztez.png",
+      "completed_at": "2026-07-23T04:02:21.6709204Z",
       "prompt_file": "prompts/rows/running-left.md",
       "retry_prompt_file": "prompts/row-retries/running-left.md",
       "input_images": [
@@ -112,6 +116,10 @@
         {
           "path": "references/canonical-base.png",
           "role": "canonical identity reference"
+        },
+        {
+          "path": "frames/idle/00.png",
+          "role": "approved idle frame and exact target for apparent head diameter, torso width, limb thickness, and body proportions"
         },
         {
           "path": "decoded/running-right.png",

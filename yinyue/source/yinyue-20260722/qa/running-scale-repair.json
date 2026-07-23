@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "states": [
+    "running-right",
+    "running-left"
+  ],
+  "cause": "The previous directional rows used low crouched sprint poses; fitting those poses to the same cell height enlarged the perceived head and body relative to idle.",
+  "strategy": "Replace both complete rows with upright grounded short-step drag gaits using the approved idle frame as the apparent-size and proportion reference.",
+  "before": {
+    "idleMedianWidth": 89,
+    "runningRightMedianWidth": 111.5,
+    "runningLeftMedianWidth": 130,
+    "commonMedianHeight": 198
+  },
+  "after": {
+    "idleMedianWidth": 89,
+    "runningRightMedianWidth": 84,
+    "runningLeftMedianWidth": 91,
+    "commonMedianHeight": 198
+  },
+  "deterministicReview": "pass",
+  "visualQa": "pass",
+  "visualQaNote": "Both directional rows now match idle's apparent head, torso, limb, and three-head body scale without zoom or popping, while keeping grounded alternating motion and correct facing.",
+  "directionRegression": "pass",
+  "repairRows": []
+}

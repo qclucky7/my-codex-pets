@@ -1,15 +1,7 @@
-Create Codex pet row `running-left` for `yinyue`: exactly 8 full-body frames in one horizontal strip on flat pure magenta #FF00FF.
+Repair the complete eight-frame `running-left` strip for Yinyue on flat #FF00FF.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: 凡人修仙传动漫银月的人形造型。娇小灵动的银发狐耳少女，长银白发，银白狐耳带简化金属耳环，一蓝一琥珀异色瞳；月白银纹短裙、红色束腰，白色绒毛领与袖口，白色长靴。气质俏皮可爱又带灵狐机敏，比例为适合桌面 pet 的 Q 版人形全身，不携带武器。. Preserve silhouette, face, palette, material, proportions, markings, and props.
+The previous movement looked larger than idle because it used a deep crouched sprint. Replace it with a compact upright leftward drag gait. Use the attached idle frame as the exact scale reference and the repaired rightward strip as the cadence reference: identical head diameter, torso width, limb thickness, three-head-tall proportions, camera distance, and motion energy.
 
-Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
+Exactly eight separated full-body poses. Torso nearly upright, body close to standing height, small alternating steps under the body, subtle arm and hair motion, unmistakably facing screen-left. No deep crouch, forward lunge, high knees, flying stride, wide split legs, oversized head, zoom, or camera-distance change.
 
-Action: Dragging-left loop: show directional movement to the left through body and limb poses only.
-
-State requirements:
-- Show directional drag movement to the left through body, limb, and prop movement only.
-- The row must unmistakably face and travel left.
-- The movement cadence must alternate visibly across the 8 frames instead of repeating one nearly static stride.
-- Do not draw speed lines, dust clouds, floor shadows, motion trails, or detached motion effects.
-
-One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #FF00FF colors in the pet.
+Preserve the asymmetric eye colors and ear ornament on their correct anatomical sides; do not mirror the identity. Preserve silver hair, fox ears, white/silver dress, red sash, fur trim, boots, and Chinese 3D donghua identity. No text, guide marks, scenery, shadows, blur, speed lines, dust, trails, or detached effects.

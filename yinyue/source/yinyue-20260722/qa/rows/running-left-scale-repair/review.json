@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames",
+  "states": [
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11096,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11512,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11616,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 275
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11403,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11352,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11456,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11117,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 267
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\yinyue\\source\\yinyue-20260722\\qa\\rows\\running-left-scale-repair\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11214,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        }
+      ]
+    }
+  ]
+}
