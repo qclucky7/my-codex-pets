@@ -1,0 +1,306 @@
+{
+  "pet_id": "songyu",
+  "display_name": "\u5b8b\u7389",
+  "description": "\u300a\u51e1\u4eba\u4fee\u4ed9\u4f20\u300b\u52a8\u753b\u5b8b\u7389\u7684\u9752\u767d\u8863\u88d9 Q \u7248\u4fee\u4ed9\u8005\u5ba0\u7269\u5f62\u8c61\uff0c\u4ee5\u5439\u8336\u540d\u573a\u9762\u548c\u5fa1\u7a7a\u98de\u884c\u4e3a\u7279\u8272\u52a8\u4f5c\u3002.",
+  "created_at": "2026-07-23T07:16:19.138290+00:00",
+  "sprite_version_number": 2,
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    },
+    {
+      "state": "look-row-9",
+      "row": 9,
+      "frames": 8,
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "purpose": "clockwise look directions from up through down-right"
+    },
+    {
+      "state": "look-row-10",
+      "row": 10,
+      "frames": 8,
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "purpose": "clockwise look directions from down through up-left"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references\\layout-guides\\idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references\\layout-guides\\running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references\\layout-guides\\running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references\\layout-guides\\waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references\\layout-guides\\jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references\\layout-guides\\failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references\\layout-guides\\waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references\\layout-guides\\running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references\\layout-guides\\review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-9",
+      "path": "references\\layout-guides\\look-row-9.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-10",
+      "path": "references\\layout-guides\\look-row-10.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-cardinals",
+      "path": "references\\layout-guides\\look-cardinals.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-01.png",
+      "width": 1202,
+      "height": 1308,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\concept\\songyu-concept-v3.png",
+      "copied_path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-01.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-02.png",
+      "width": 352,
+      "height": 568,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "C:\\Users\\WangChen\\AppData\\Local\\Temp\\codex-clipboard-5c3c5c3e-ea54-4785-a141-5736e8d8ce0a.png",
+      "copied_path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-02.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-03.png",
+      "width": 386,
+      "height": 518,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "C:\\Users\\WangChen\\AppData\\Local\\Temp\\codex-clipboard-13001923-1778-474d-999b-d3202e5e1aa5.png",
+      "copied_path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-03.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-04.png",
+      "width": 386,
+      "height": 518,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "C:\\Users\\WangChen\\AppData\\Local\\Temp\\codex-clipboard-4e7934fa-f554-432c-847c-f409e445cdd9.png",
+      "copied_path": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\references\\reference-04.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "\u5b8b\u7389\uff0c\u7ea6\u4e09\u5934\u8eab\u7cbe\u81f4\u4e2d\u56fd3D\u52a8\u6f2bQ\u7248\u6210\u5e74\u5973\u4fee\uff1b\u6df1\u68d5\u9ed1\u957f\u53d1\u3001\u7070\u84dd\u773c\u775b\u3001\u767d\u7389\u4e91\u7eb9\u51a0\u4e0e\u4e24\u4fa7\u7fbd\u7ffc\u7389\u9970\u3001\u53cc\u5c42\u7ea2\u7ef3\u9879\u94fe\u3001\u9752\u767d\u6e10\u53d8\u8863\u88d9\u4e0e\u6df1\u9752\u53e0\u7ed5\u8170\u5c01\u3002jumping\u5fc5\u987b\u8868\u73b0\u53cc\u624b\u6367\u9752\u7eff\u8272\u5c0f\u8336\u676f\u561f\u5634\u5439\u8336\uff0c\u4e0d\u505a\u8df3\u8dc3\u4e14\u65e0\u84b8\u6c7d\uff1brunning-right\u4e0erunning-left\u5fc5\u987b\u8868\u73b0\u4eba\u7269\u6e05\u6670\u53ef\u89c1\u7684\u4fa7\u8eab\u5fa1\u7a7a\u98de\u884c\u3001\u80f8\u524d\u6cd5\u8bc0\u3001\u957f\u53d1\u8896\u88d9\u5411\u540e\u98d8\u52a8\uff0c\u5b8c\u5168\u65e0\u5149\u7403\u3001\u9041\u5149\u5916\u58f3\u3001\u5c3e\u8ff9\u6216\u901f\u5ea6\u7ebf\u3002",
+  "style_preset": "auto",
+  "style_notes": "\u4e0e\u4ed3\u5e93 yinyue \u5ba0\u7269\u540c\u7cfb\u5217\uff1a\u7cbe\u81f4\u4e2d\u56fd3D\u52a8\u6f2bQ\u7248\u3001\u7ea6\u4e09\u5934\u8eab\u3001\u67d4\u548c\u6750\u8d28\u3001\u5e72\u51c0\u8f6e\u5ed3\u3001\u6210\u5e74\u6e29\u67d4\u6e05\u51b7\u6c14\u8d28\u3001\u5c0f\u5c3a\u5bf8\u53ef\u8bfb\u3002",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: \u4e0e\u4ed3\u5e93 yinyue \u5ba0\u7269\u540c\u7cfb\u5217\uff1a\u7cbe\u81f4\u4e2d\u56fd3D\u52a8\u6f2bQ\u7248\u3001\u7ea6\u4e09\u5934\u8eab\u3001\u67d4\u548c\u6750\u8d28\u3001\u5e72\u51c0\u8f6e\u5ed3\u3001\u6210\u5e74\u6e29\u67d4\u6e05\u51b7\u6c14\u8d28\u3001\u5c0f\u5c3a\u5bf8\u53ef\u8bfb\u3002.",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen"
+}

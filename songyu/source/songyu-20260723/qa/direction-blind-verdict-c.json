@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-left", "B": "screen-right", "reason": "A鼻尖与视线朝左，B鼻尖与视线朝右"},
+    {"pair": "horizontal-2", "A": "screen-right", "B": "screen-left", "reason": "A呈右向侧脸，B呈左向侧脸"},
+    {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "A面部轴线朝左，B面部轴线朝右"},
+    {"pair": "horizontal-4", "A": "screen-left", "B": "screen-right", "reason": "A鼻尖偏左，B鼻尖偏右"},
+    {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "两者虽都低头，但A水平分量朝左、B朝右"},
+    {"pair": "horizontal-6", "A": "screen-left", "B": "screen-right", "reason": "俯视姿态下，A脸部偏左、B脸部偏右"},
+    {"pair": "horizontal-7", "A": "screen-left", "B": "screen-right", "reason": "A低头向左，B低头向右"},
+    {"pair": "vertical-1", "A": "up", "B": "down", "reason": "A抬头仰视，B低头俯视"},
+    {"pair": "vertical-2", "A": "up", "B": "down", "reason": "A下巴与视线上扬，B头部和视线下垂"},
+    {"pair": "vertical-3", "A": "up", "B": "down", "reason": "A明显仰视，B明显俯视"},
+    {"pair": "vertical-4", "A": "down", "B": "up", "reason": "A头部略低、视线向下，B抬眼向上"},
+    {"pair": "vertical-5", "A": "down", "B": "up", "reason": "A低头俯视，B抬头仰视"},
+    {"pair": "vertical-6", "A": "down", "B": "up", "reason": "A眼神与面部轴线向下，B眼神与面部轴线上扬"},
+    {"pair": "vertical-7", "A": "down", "B": "up", "reason": "A低头向下，B相对抬头向上"}
+  ]
+}

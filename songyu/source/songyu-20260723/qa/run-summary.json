@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "pet_id": "songyu",
+  "sprite_version_number": 2,
+  "atlas": {
+    "path": "../../spritesheet.webp",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "validation": "pass"
+  },
+  "custom_actions": {
+    "jumping": "五帧端杯吹茶循环，无蒸汽",
+    "running-right": "结印向右御空飞行，无遁光球、光尾或速度线",
+    "running-left": "结印向左御空飞行，无遁光球、光尾或速度线"
+  },
+  "qa": {
+    "deterministic_atlas_validation": "pass",
+    "standard_rows": "pass",
+    "direction_semantics": "pass",
+    "independent_blind_reviews": "3/3 pass",
+    "direction_continuity": "pass_with_reviewed_minor_warning",
+    "final_visual_qa": "pass"
+  },
+  "reviewed_warning": "157.5->180 的像素差异为局部离群点，但在正常宠物尺寸下没有明显跳变、身份漂移或方向反转。",
+  "packaged": true,
+  "installed": false,
+  "published": false
+}

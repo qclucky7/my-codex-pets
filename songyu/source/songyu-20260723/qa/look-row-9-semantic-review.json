@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "directions": [
+    {"direction": "000", "expected": "up", "observed": "正面抬头，眼睛和下巴明确向上", "verdict": "pass"},
+    {"direction": "022.5", "expected": "up-right", "observed": "抬头并带有清楚的画面右侧分量", "verdict": "pass"},
+    {"direction": "045", "expected": "up-right", "observed": "眼神、鼻尖和脸部均朝右上", "verdict": "pass"},
+    {"direction": "067.5", "expected": "up-right", "observed": "右向侧脸占主导，同时保留向上视线", "verdict": "pass"},
+    {"direction": "090", "expected": "right", "observed": "鼻尖、嘴唇和视线明确指向画面右侧", "verdict": "pass"},
+    {"direction": "112.5", "expected": "down-right", "observed": "保持右向侧脸并开始低头", "verdict": "pass"},
+    {"direction": "135", "expected": "down-right", "observed": "右下方向均衡明确", "verdict": "pass"},
+    {"direction": "157.5", "expected": "down-right", "observed": "低头占主导且仍保留画面右侧分量", "verdict": "pass"}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "修复后的完整行从正上经画面右侧连续过渡到右下，并在正常宠物尺寸下自然衔接 180 正下。"
+  }
+}

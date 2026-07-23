@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "directions": [
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "eyes lowered and chin clearly tucked",
+      "verdict": "pass"
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "downward gaze begins turning screen-left",
+      "verdict": "pass"
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "balanced down-left head and eye direction",
+      "verdict": "pass"
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "screen-left turn dominates while chin remains lowered",
+      "verdict": "pass"
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "nose tip, pupils, and face clearly point screen-left",
+      "verdict": "pass"
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "clear screen-left component with eyes and chin beginning to rise",
+      "verdict": "pass"
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "balanced up-left face, eye, and chin direction",
+      "verdict": "pass"
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "strong upward gaze with a retained slight screen-left face component",
+      "verdict": "pass"
+    }
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "The repaired complete row progresses continuously from down through left to up-left and joins both 157.5 and 000 without a visible reversal, neutral snap, crop, scale pop, or registration jump."
+  }
+}

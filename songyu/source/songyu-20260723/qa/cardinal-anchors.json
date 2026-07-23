@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        508,
+        773
+      ],
+      "used_pixels": 139413,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        508,
+        0,
+        1016,
+        773
+      ],
+      "used_pixels": 136151,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1016,
+        0,
+        1525,
+        773
+      ],
+      "used_pixels": 137010,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1525,
+        0,
+        2033,
+        773
+      ],
+      "used_pixels": 135005,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

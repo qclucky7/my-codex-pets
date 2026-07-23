@@ -8,10 +8,13 @@
 | --- | --- | --- | --- |
 | 云珩（`yunheng`） | 白发月白仙袍、清冷俊雅的中国古风年轻仙君 | Codex Pet Sprite v2 | [查看 pet](yunheng/README.md) |
 | 银月（`yinyue`） | 银发狐耳、异色瞳与月白短裙的灵动人形少女，悬停时模仿狐狸前爪 | Codex Pet Sprite v2 | [查看 pet](yinyue/README.md) |
+| 宋玉（`songyu`） | 青白仙裙、白玉发冠的温柔人形少女，悬停吹茶、拖动时结印御空飞行 | Codex Pet Sprite v2 | [查看 pet](songyu/README.md) |
 
 ![云珩动作总览](yunheng/assets/contact-sheet.png)
 
 ![银月动作总览](yinyue/assets/contact-sheet.png)
+
+![宋玉动作总览](songyu/assets/contact-sheet.png)
 
 ## 仓库结构
 

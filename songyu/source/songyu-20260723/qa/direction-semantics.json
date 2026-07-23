@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction": "000", "verdict": "pass", "observed": "抬头、眼睛和面部明确朝上。"},
+    {"direction": "022.5", "verdict": "pass", "observed": "头眼朝屏幕右上，水平右向与垂直上向均清楚。"},
+    {"direction": "045", "verdict": "pass", "observed": "面部转向屏幕右上，呈明确上右对角。"},
+    {"direction": "067.5", "verdict": "pass", "observed": "以屏幕右向为主并保留上扬视线，顺时针过渡自然。"},
+    {"direction": "090", "verdict": "pass", "observed": "鼻尖与视线明确指向屏幕右侧。"},
+    {"direction": "112.5", "verdict": "pass", "observed": "头眼转向屏幕右下，右向与下向均可读。"},
+    {"direction": "135", "verdict": "pass", "observed": "面部明确朝屏幕右下，俯视程度继续增加。"},
+    {"direction": "157.5", "verdict": "pass", "observed": "主要向下并仍保留屏幕右向，符合右下末段。"},
+    {"direction": "180", "verdict": "pass", "observed": "正面低头，眼睛和下巴明确朝下。"},
+    {"direction": "202.5", "verdict": "pass", "observed": "从正下转向屏幕左下，水平左向与垂直下向均可读。"},
+    {"direction": "225", "verdict": "pass", "observed": "面部明确朝屏幕左下。"},
+    {"direction": "247.5", "verdict": "pass", "observed": "以屏幕左向为主并保留下视，过渡连续。"},
+    {"direction": "270", "verdict": "pass", "observed": "鼻尖与侧脸明确指向屏幕左侧。"},
+    {"direction": "292.5", "verdict": "pass", "observed": "头眼朝屏幕左上，左向与上向均清楚。"},
+    {"direction": "315", "verdict": "pass", "observed": "面部明确朝屏幕左上。"},
+    {"direction": "337.5", "verdict": "pass", "observed": "主要向上并仍保留屏幕左向，可自然衔接 000。"}
+  ]
+}

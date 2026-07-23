@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "look-continuity 检测到 157.5->180 为局部差异离群点；正常展示尺寸下仅为从右下转向正下时的轻微自然姿态与轮廓变化，无明显跳变、身份漂移或语义反转。"
+  ],
+  "checks": {
+    "identity": "pass",
+    "jumping_tea": "pass",
+    "running_right": "pass",
+    "running_left": "pass",
+    "standard_rows": "pass",
+    "directions": "pass",
+    "continuity": "pass",
+    "transparency": "pass"
+  },
+  "notes": "宋玉身份、服装与比例一致；jumping 为五帧端杯吹茶且无蒸汽；左右移动为结印御空飞行，人物可见且没有光球、遁光壳、光尾或速度线。三份隔离方向盲测全部通过。v2 图集结构、透明背景和洋红边缘检查通过。"
+}
