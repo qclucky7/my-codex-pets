@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running-left",
+      "frames": [
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\00.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\01.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\02.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\03.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\04.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\05.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\06.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-left-candidate\\frames\\running-left\\07.png"
+      ],
+      "method": "slots"
+    }
+  ]
+}

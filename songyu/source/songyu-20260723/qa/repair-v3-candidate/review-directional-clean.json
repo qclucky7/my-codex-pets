@@ -1,0 +1,281 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean",
+  "states": [
+    "running-right",
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12594,
+          "bbox": [
+            36,
+            5,
+            155,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 590
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12078,
+          "bbox": [
+            36,
+            6,
+            156,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 575
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11791,
+          "bbox": [
+            37,
+            6,
+            154,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 541
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11371,
+          "bbox": [
+            38,
+            17,
+            154,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 578
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11396,
+          "bbox": [
+            39,
+            12,
+            152,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 561
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11543,
+          "bbox": [
+            38,
+            18,
+            154,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 555
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11851,
+          "bbox": [
+            38,
+            28,
+            154,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 555
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11596,
+          "bbox": [
+            38,
+            31,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 579
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14798,
+          "bbox": [
+            23,
+            5,
+            169,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 590
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14624,
+          "bbox": [
+            24,
+            6,
+            167,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 593
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14471,
+          "bbox": [
+            25,
+            6,
+            167,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 579
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13889,
+          "bbox": [
+            27,
+            9,
+            165,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 583
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13513,
+          "bbox": [
+            27,
+            11,
+            165,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 577
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13305,
+          "bbox": [
+            28,
+            17,
+            164,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 567
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13215,
+          "bbox": [
+            28,
+            21,
+            164,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 558
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional-clean\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13094,
+          "bbox": [
+            28,
+            24,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 551
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running-right",
+      "frames": [
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\00.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\01.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\02.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\03.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\04.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\05.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\06.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-right\\07.png"
+      ],
+      "method": "stable-slots"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\00.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\01.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\02.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\03.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\04.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\05.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\06.png",
+        "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\qa\\repair-v3-candidate\\frames-directional\\running-left\\07.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

@@ -34,7 +34,7 @@
         "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\frames\\running-right\\06.png",
         "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\frames\\running-right\\07.png"
       ],
-      "method": "components"
+      "method": "stable-slots"
     },
     {
       "state": "running-left",
@@ -48,7 +48,7 @@
         "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\frames\\running-left\\06.png",
         "D:\\github\\my-codex-pets\\songyu\\source\\songyu-20260723\\frames\\running-left\\07.png"
       ],
-      "method": "components"
+      "method": "stable-slots"
     },
     {
       "state": "waving",

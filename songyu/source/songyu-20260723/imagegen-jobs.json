@@ -94,7 +94,7 @@
       "kind": "row-strip",
       "status": "complete",
       "prompt_file": "prompts/rows/running-right.md",
-      "retry_prompt_file": "prompts/row-retries/running-right.md",
+      "retry_prompt_file": "prompts/row-repairs/running-right-clean-scale-v4-green.md",
       "input_images": [
         {
           "path": "references\\reference-01.png",
@@ -139,16 +139,16 @@
         "reason": "no deterministic derivation is configured for this state"
       },
       "mirror_policy": {},
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8de0-ef68-7801-8724-f9e7312f2575\\exec-5941980d-3b56-412d-91e3-01cb0135a688.png",
-      "completed_at": "2026-07-23T07:38:49Z",
-      "qa_note": "Eight separated rightward flight poses passed worker visual QA; incremental chroma-adjacent diagnostics are deferred to the required final v2 despill pass."
+      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8e83-8b41-7782-8f09-88f2277354bb\\call_lB9KnBZNr0wpunixB0C4JPPZ.png",
+      "completed_at": "2026-07-23T12:31:00Z",
+      "qa_note": "Complete row regenerated on a green key and converted with the imagegen chroma-key transparency helper after repeated magenta spill. Eight smaller rightward flight poses preserve a single-hand sword seal at the chest, keep the other hand separate and rearward, match idle scale, and pass stable-slots extraction plus final visual QA."
     },
     {
       "id": "running-left",
       "kind": "row-strip",
       "status": "complete",
       "prompt_file": "prompts/rows/running-left.md",
-      "retry_prompt_file": "prompts/row-retries/running-left.md",
+      "retry_prompt_file": "prompts/row-repairs/running-left-clean-scale-v4-green.md",
       "input_images": [
         {
           "path": "references\\reference-01.png",
@@ -208,9 +208,9 @@
         "requires_explicit_approval": true,
         "fallback_generation_skill": "$imagegen"
       },
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8dea-7d44-7fb2-990c-9ac81b4506ac\\exec-b20fc171-dc91-44a2-9a96-3cae7f14d84a.png",
-      "completed_at": "2026-07-23T07:51:01Z",
-      "qa_note": "Eight separated leftward flight poses passed worker visual QA; generated independently to preserve costume direction. Chroma-adjacent diagnostics are deferred to the required final v2 despill pass."
+      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019f8e83-e97c-7f11-a39e-ea0a6f6047de\\call_bkt8lJiIKDgy5juDPTVdrpSA.png",
+      "completed_at": "2026-07-23T12:33:00Z",
+      "qa_note": "Complete row regenerated independently on a green key and converted with the imagegen chroma-key transparency helper after repeated magenta spill. Eight smaller leftward flight poses preserve a single-hand sword seal at the chest, keep the other hand separate and rearward, match idle scale, and pass stable-slots extraction plus final visual QA."
     },
     {
       "id": "waving",

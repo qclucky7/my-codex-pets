@@ -12,8 +12,8 @@
   },
   "custom_actions": {
     "jumping": "五帧端杯吹茶循环，无蒸汽",
-    "running-right": "结印向右御空飞行，无遁光球、光尾或速度线",
-    "running-left": "结印向左御空飞行，无遁光球、光尾或速度线"
+    "running-right": "胸前单手剑诀向右御空飞行，另一只手独立后展；与 idle 同级尺寸，无遁光球、光尾或速度线",
+    "running-left": "胸前单手剑诀向左御空飞行，另一只手独立后展；与 idle 同级尺寸，无遁光球、光尾或速度线"
   },
   "qa": {
     "deterministic_atlas_validation": "pass",
