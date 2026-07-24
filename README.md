@@ -6,15 +6,15 @@
 
 | Pet | 简介 | 格式 | 预览与说明 |
 | --- | --- | --- | --- |
-| 云珩（`yunheng`） | 白发月白仙袍、清冷俊雅的中国古风年轻仙君 | Codex Pet Sprite v2 | [查看 pet](yunheng/README.md) |
 | 银月（`yinyue`） | 银发狐耳、异色瞳与月白短裙的灵动人形少女，悬停时模仿狐狸前爪 | Codex Pet Sprite v2 | [查看 pet](yinyue/README.md) |
 | 宋玉（`songyu`） | 青白仙裙、白玉发冠的温柔人形少女，悬停吹茶、拖动时结印御空飞行 | Codex Pet Sprite v2 | [查看 pet](songyu/README.md) |
-
-![云珩动作总览](yunheng/assets/contact-sheet.png)
+| 慕沛灵（`mupeiling`） | 橙红仙裙、温柔眉眼的中国古风 Q 版少女，悬停时正面舒展双臂感受自由 | Codex Pet Sprite v2 | [查看 pet](mupeiling/README.md) |
 
 ![银月动作总览](yinyue/assets/contact-sheet.png)
 
 ![宋玉动作总览](songyu/assets/contact-sheet.png)
+
+![慕沛灵动作总览](mupeiling/assets/contact-sheet.png)
 
 ## 仓库结构
 
@@ -35,10 +35,10 @@ codex-pets/
 
 ## 安装 pet
 
-以 `yunheng` 为例，在仓库根目录运行 PowerShell：
+以 `mupeiling` 为例，在仓库根目录运行 PowerShell：
 
 ```powershell
-$petId = "yunheng"
+$petId = "mupeiling"
 $target = Join-Path $HOME ".codex\pets\$petId"
 New-Item -ItemType Directory -Path $target -Force | Out-Null
 Copy-Item ".\$petId\pet.json", ".\$petId\spritesheet.webp" -Destination $target -Force

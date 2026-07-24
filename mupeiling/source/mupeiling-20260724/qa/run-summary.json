@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "petId": "mupeiling",
+  "displayName": "慕沛灵",
+  "spriteVersionNumber": 2,
+  "package": {
+    "petJson": "D:\\github\\my-codex-pets\\mupeiling\\pet.json",
+    "spritesheet": "D:\\github\\my-codex-pets\\mupeiling\\spritesheet.webp",
+    "readme": "D:\\github\\my-codex-pets\\mupeiling\\README.md",
+    "contactSheet": "D:\\github\\my-codex-pets\\mupeiling\\assets\\contact-sheet.png"
+  },
+  "validation": {
+    "atlas": "pass",
+    "atlasSize": "1536x2288",
+    "grid": "8x11",
+    "transparentRgbResiduePixels": 0,
+    "reviewErrors": 0,
+    "blindDirectionQa": "pass",
+    "lookContinuity": "pass",
+    "directionSemantics": "pass",
+    "finalVisualQa": "pass"
+  },
+  "motionNotes": {
+    "jumping": "Grounded front-facing freedom gesture: arms open and slowly return; no actual jump or look-back.",
+    "runningScale": "Idle, running-right, and running-left use a 198-pixel body height and the same bottom baseline."
+  }
+}

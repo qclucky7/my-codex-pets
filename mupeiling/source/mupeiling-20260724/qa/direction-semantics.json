@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "reviewer": "independent-final-visual-qa",
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "reason": "Chin lifts and face tilts back with pupils aimed above head center."
+    },
+    {
+      "direction": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Horizontal: nose and pupils shift screen-right of head center. Vertical: raised chin and pupils aim upward."
+    },
+    {
+      "direction": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Horizontal: face yaw and nose project screen-right. Vertical: eyes and chin remain clearly elevated."
+    },
+    {
+      "direction": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Horizontal: strong rightward profile and screen-right nose projection. Vertical: upturned chin and elevated gaze remain visible."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "reason": "Nose, visible eye, and facial profile aim unmistakably screen-right."
+    },
+    {
+      "direction": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Horizontal: nose and visible pupil remain screen-right of head center. Vertical: chin lowers and gaze angles below level."
+    },
+    {
+      "direction": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Horizontal: three-quarter face and nose point screen-right. Vertical: lowered eyelids, pupils, and chin establish downward gaze."
+    },
+    {
+      "direction": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Horizontal: subtle nose and pupil displacement remains screen-right. Vertical: chin is tucked and eyes look clearly downward."
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down",
+      "reason": "Head bows centrally with chin tucked and open eyes directed down."
+    },
+    {
+      "direction": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Horizontal: nose and pupil shift screen-left of head center. Vertical: bowed chin and lowered eyes retain the downward axis."
+    },
+    {
+      "direction": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Horizontal: three-quarter face and nose project screen-left. Vertical: eyes and chin remain lowered."
+    },
+    {
+      "direction": "247.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Horizontal: strong screen-left profile and nose projection. Vertical: downward eye line and tucked chin remain visible."
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "left",
+      "reason": "Nose, visible eye, and facial profile aim unmistakably screen-left."
+    },
+    {
+      "direction": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Horizontal: nose and pupil remain screen-left of head center. Vertical: chin rises and gaze angles upward."
+    },
+    {
+      "direction": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Horizontal: three-quarter face and nose point screen-left. Vertical: elevated pupils and lifted chin establish upward gaze."
+    },
+    {
+      "direction": "337.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Horizontal: subtle nose and pupil displacement remains screen-left. Vertical: face tilts back with eyes aimed upward."
+    }
+  ]
+}

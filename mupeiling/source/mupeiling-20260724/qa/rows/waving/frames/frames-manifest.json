@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "waving",
+      "frames": [
+        "D:\\github\\my-codex-pets\\mupeiling\\source\\mupeiling-20260724\\qa\\rows\\waving\\frames\\waving\\00.png",
+        "D:\\github\\my-codex-pets\\mupeiling\\source\\mupeiling-20260724\\qa\\rows\\waving\\frames\\waving\\01.png",
+        "D:\\github\\my-codex-pets\\mupeiling\\source\\mupeiling-20260724\\qa\\rows\\waving\\frames\\waving\\02.png",
+        "D:\\github\\my-codex-pets\\mupeiling\\source\\mupeiling-20260724\\qa\\rows\\waving\\frames\\waving\\03.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+visual_qa=pass
+qa_note=All rows preserve Mupeiling's refined Chinese 3D anime Q-version identity, orange-red Hanfu, face, proportions and accessories, with clean action semantics, stable scale, opposite alternating directional gaits, and the approved grounded front-facing arms-open jumping override.
+review_warnings=none
+repair_rows=none
+repair_notes=none
