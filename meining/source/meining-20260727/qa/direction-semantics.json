@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction": "000", "verdict": "pass", "expected": "up", "observed": "front-up", "reason": "Chin is raised and pupils sit high."},
+    {"direction": "022.5", "verdict": "pass", "expected": "up-right", "observed": "slight up-right", "reason": "Raised gaze gains a small screen-right head turn."},
+    {"direction": "045", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "Both upward and screen-right components are clear."},
+    {"direction": "067.5", "verdict": "pass", "expected": "up-right", "observed": "strong up-right", "reason": "Rightward face turn dominates while chin remains raised."},
+    {"direction": "090", "verdict": "pass", "expected": "right", "observed": "screen-right", "reason": "Nose and pupils are clearly right of head center."},
+    {"direction": "112.5", "verdict": "pass", "expected": "down-right", "observed": "slight down-right", "reason": "Right turn remains clear as gaze starts lowering."},
+    {"direction": "135", "verdict": "pass", "expected": "down-right", "observed": "down-right", "reason": "Both downward and screen-right components are visible."},
+    {"direction": "157.5", "verdict": "pass", "expected": "down-right", "observed": "strong down-right", "reason": "Lowered chin retains a clear screen-right face plane."},
+    {"direction": "180", "verdict": "pass", "expected": "down", "observed": "front-down", "reason": "Chin is tucked and pupils sit low."},
+    {"direction": "202.5", "verdict": "pass", "expected": "down-left", "observed": "slight down-left", "reason": "Downward gaze gains a small screen-left turn."},
+    {"direction": "225", "verdict": "pass", "expected": "down-left", "observed": "down-left", "reason": "Both downward and screen-left components are visible."},
+    {"direction": "247.5", "verdict": "pass", "expected": "down-left", "observed": "strong down-left", "reason": "Left face turn dominates while chin remains lowered."},
+    {"direction": "270", "verdict": "pass", "expected": "left", "observed": "screen-left", "reason": "Nose and pupils are clearly left of head center."},
+    {"direction": "292.5", "verdict": "pass", "expected": "up-left", "observed": "slight up-left", "reason": "Left turn remains clear as gaze starts rising."},
+    {"direction": "315", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "Both upward and screen-left components are clear."},
+    {"direction": "337.5", "verdict": "warning", "expected": "up-left", "observed": "strong up-left", "reason": "Direction is correct; transition back to front-up changes head silhouette more than neighboring steps."}
+  ]
+}

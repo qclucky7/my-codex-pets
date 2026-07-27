@@ -1,0 +1,16 @@
+Create Codex pet row `jumping` for `meining`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #FF00FF.
+
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: 锁定用户确认的融合形象：左款发型发饰服装与端庄站姿，中款温柔灵秀脸。概念展示图只作身份参考，必须重新生成 pet-safe 生产基本图。生产基本图为单人紧凑全身、约三头身成年气质，主体充分占据 192x208 单元格安全区，纯洋红背景，无渐变和阴影。蓝灰瞳，黑色中分双侧低髻与长发，金铜叶片发饰、青绿宝石、垂珠耳坠，青白交领长裙、深青腰封、古铜腰饰、白色花枝刺绣。idle 仅呼吸眨眼与极轻发梢袖摆变化；jumping 不跳跃，改为温柔托脸动作；running-right 和 running-left 必须与 idle 保持相同视觉身高、头部大小、整体尺度和脚底基线。. Preserve silhouette, face, palette, material, proportions, markings, and props.
+
+Keep apparent pet scale, head size, body height, and foot baseline identical to the approved `idle` baseline in every frame. This custom `jumping` row has no vertical jump and no scale change.
+
+Action: Gentle cheek-resting loop while standing still; this custom row intentionally replaces jumping.
+
+State requirements:
+- Do not jump, hover, crouch, lift, descend, bounce, or move the feet.
+- Keep both feet planted on the exact `idle` baseline and keep the same visual height and head size as `idle`.
+- Animate one hand rising to support the cheek, a gentle cheek-in-palm hold, and a calm return; keep the hand connected to the arm and preserve the face shape.
+- Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks.
+- Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
+
+One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #FF00FF colors in the pet.

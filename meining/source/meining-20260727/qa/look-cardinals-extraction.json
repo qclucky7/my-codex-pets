@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        523,
+        752
+      ],
+      "used_pixels": 134142,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        523,
+        0,
+        1046,
+        752
+      ],
+      "used_pixels": 129803,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1046,
+        0,
+        1569,
+        752
+      ],
+      "used_pixels": 134076,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1569,
+        0,
+        2092,
+        752
+      ],
+      "used_pixels": 130934,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

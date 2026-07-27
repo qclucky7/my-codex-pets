@@ -1,0 +1,19 @@
+{
+  "reviewer": "manual visual axis review",
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-right", "B": "screen-left", "reason": "A face and nose aim right; B aim left."},
+    {"pair": "horizontal-2", "A": "screen-right", "B": "screen-left", "reason": "Head turns are clearly opposite on the horizontal axis."},
+    {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "A nose and pupils sit left of center; B sit right."},
+    {"pair": "horizontal-4", "A": "screen-left", "B": "screen-right", "reason": "Both cardinal side turns are unmistakable."},
+    {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "Downward poses retain clear opposite horizontal components."},
+    {"pair": "horizontal-6", "A": "screen-right", "B": "screen-left", "reason": "A aims down-right and B aims down-left."},
+    {"pair": "horizontal-7", "A": "screen-left", "B": "screen-right", "reason": "Both shallow downward turns retain readable horizontal direction."},
+    {"pair": "vertical-1", "A": "down", "B": "up", "reason": "Cardinal chin and eye elevation are unmistakable."},
+    {"pair": "vertical-2", "A": "down", "B": "up", "reason": "A chin is tucked; B chin and eyes are raised."},
+    {"pair": "vertical-3", "A": "up", "B": "down", "reason": "The diagonal poses show opposite vertical components."},
+    {"pair": "vertical-4", "A": "down", "B": "up", "reason": "A gaze falls below center; B rises above center."},
+    {"pair": "vertical-5", "A": "up", "B": "down", "reason": "A chin is raised; B chin and gaze are lowered."},
+    {"pair": "vertical-6", "A": "up", "B": "down", "reason": "The two leftward diagonals retain opposite vertical components."},
+    {"pair": "vertical-7", "A": "down", "B": "up", "reason": "A aims down-left while B aims up-left."}
+  ]
+}

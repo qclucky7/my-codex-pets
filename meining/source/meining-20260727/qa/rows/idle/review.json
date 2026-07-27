@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12520,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12569,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12539,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12586,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12568,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260727\\qa\\rows\\idle\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12593,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        }
+      ]
+    }
+  ]
+}

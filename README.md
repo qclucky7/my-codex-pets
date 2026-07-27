@@ -11,12 +11,15 @@
 | 银月（`yinyue`） | 银发狐耳、异色瞳与月白短裙的灵动少女，悬停时模仿狐狸前爪 | Codex Pet Sprite v2 | [查看角色](yinyue/README.md) |
 | 宋玉（`songyu`） | 青白仙裙、白玉发冠的温柔少女，悬停吹茶、拖动时结印御空飞行 | Codex Pet Sprite v2 | [查看角色](songyu/README.md) |
 | 慕沛灵（`mupeiling`） | 橙红仙裙、温柔眉眼的古风少女，悬停时正面舒展双臂感受自由 | Codex Pet Sprite v2 | [查看角色](mupeiling/README.md) |
+| 梅凝（`meining`） | 青白绣花长裙、金铜叶片发饰的温柔少女，悬停时站定托脸 | Codex Pet Sprite v2 | [查看角色](meining/README.md) |
 
 ![银月动作总览](yinyue/assets/contact-sheet.png)
 
 ![宋玉动作总览](songyu/assets/contact-sheet.png)
 
 ![慕沛灵动作总览](mupeiling/assets/contact-sheet.png)
+
+![梅凝动作总览](meining/assets/contact-sheet.png)
 
 ## 仓库结构
 
