@@ -4,7 +4,7 @@
 
 形象采用精致中国 3D 动漫 Q 版风格，保留中分双侧低髻、金铜叶片发饰、青绿宝石、垂珠耳坠、青白交领绣花长裙与深青腰封。角色约三头身，针对 `192 × 208` 桌宠单元格优化。
 
-![梅凝动作总览](assets/contact-sheet.png)
+[查看梅凝完整动作总览](assets/contact-sheet.png)
 
 ## 动作
 
@@ -51,4 +51,4 @@ Copy-Item .\meining\pet.json, .\meining\spritesheet.webp -Destination $target -F
 | 单帧尺寸 | 192 × 208 |
 | 格式 | RGBA WebP |
 
-发布文件为 `pet.json` 与 `spritesheet.webp`；`source/meining-20260727/` 保存生成输入、中间产物和完整 QA 证据。
+发布文件为 `pet.json` 与 `spritesheet.webp`；`source/meining-20260728-look-left-repair/` 保存本次鼠标跟随方向重生成的输入、中间产物和完整 QA 证据，旧版记录仍保留在 `source/meining-20260727/`。

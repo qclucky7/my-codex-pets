@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-right", "B": "screen-left", "reason": "A's nose and pupils sit right of head center; B shows a clear left-facing profile."},
+    {"pair": "horizontal-2", "A": "screen-right", "B": "screen-left", "reason": "A's three-quarter face and nose point right; B's nose projects left."},
+    {"pair": "horizontal-3", "A": "screen-right", "B": "screen-left", "reason": "A has a right-facing facial profile; B has a left-facing facial profile."},
+    {"pair": "horizontal-4", "A": "screen-left", "B": "screen-right", "reason": "A's nose projects left while B's nose and visible face surface project right."},
+    {"pair": "horizontal-5", "A": "screen-right", "B": "screen-left", "reason": "A shows a right-facing profile and B shows a left-facing profile."},
+    {"pair": "horizontal-6", "A": "screen-left", "B": "screen-right", "reason": "A's lowered nose and face turn left of center; B's profile points clearly right."},
+    {"pair": "horizontal-7", "A": "screen-right", "B": "screen-left", "reason": "A's profile points right; B's lowered three-quarter face and nose turn left."},
+    {"pair": "vertical-1", "A": "up", "B": "down", "reason": "A's chin, nose, and pupils lift upward; B bows the head with eyes lowered."},
+    {"pair": "vertical-2", "A": "up", "B": "down", "reason": "A's face and pupils angle upward; B's chin and gaze angle downward."},
+    {"pair": "vertical-3", "A": "down", "B": "up", "reason": "A's head and eye line dip downward; B's chin and pupils lift upward."},
+    {"pair": "vertical-4", "A": "ambiguous", "B": "ambiguous", "reason": "Both profiles read primarily sideways, with no definite vertical pupil or head angle at displayed size."},
+    {"pair": "vertical-5", "A": "up", "B": "down", "reason": "A's chin and nose point upward; B's bowed head and closed or lowered eyes point down."},
+    {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A visibly tilts the face upward; B lowers the chin and gaze."},
+    {"pair": "vertical-7", "A": "down", "B": "up", "reason": "A's head and eye line angle down; B's chin, nose, and gaze angle up."}
+  ]
+}

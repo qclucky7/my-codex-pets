@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "meining/source/meining-20260728-look-left-repair",
+  "spritesheet": "meining/source/meining-20260728-look-left-repair/final/spritesheet-extended.webp",
+  "validation": "meining/source/meining-20260728-look-left-repair/final/validation-extended.json",
+  "package_validation": "meining/source/meining-20260728-look-left-repair/final/validation-package.json",
+  "chroma_despill": "meining/source/meining-20260728-look-left-repair/qa/chroma-despill-extended.json",
+  "contact_sheet": "meining/source/meining-20260728-look-left-repair/qa/contact-sheet-extended.png",
+  "direction_sheet": "meining/source/meining-20260728-look-left-repair/qa/look-directions.png",
+  "direction_semantics": "meining/source/meining-20260728-look-left-repair/qa/direction-semantics.json",
+  "blind_direction_validation": "meining/source/meining-20260728-look-left-repair/qa/direction-blind-validation.json",
+  "continuity": "meining/source/meining-20260728-look-left-repair/qa/look-continuity.json",
+  "review": "meining/source/meining-20260728-look-left-repair/qa/review.json",
+  "visual_qa": "meining/source/meining-20260728-look-left-repair/qa/final-visual-qa.md",
+  "package": "meining"
+}

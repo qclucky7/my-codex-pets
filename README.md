@@ -12,14 +12,7 @@
 | 宋玉（`songyu`） | 青白仙裙、白玉发冠的温柔少女，悬停吹茶、拖动时结印御空飞行 | Codex Pet Sprite v2 | [查看角色](songyu/README.md) |
 | 慕沛灵（`mupeiling`） | 橙红仙裙、温柔眉眼的古风少女，悬停时正面舒展双臂感受自由 | Codex Pet Sprite v2 | [查看角色](mupeiling/README.md) |
 | 梅凝（`meining`） | 青白绣花长裙、金铜叶片发饰的温柔少女，悬停时站定托脸 | Codex Pet Sprite v2 | [查看角色](meining/README.md) |
-
-![银月动作总览](yinyue/assets/contact-sheet.png)
-
-![宋玉动作总览](songyu/assets/contact-sheet.png)
-
-![慕沛灵动作总览](mupeiling/assets/contact-sheet.png)
-
-![梅凝动作总览](meining/assets/contact-sheet.png)
+| 元瑶（`yuanyao`） | 黑色长发、蓝紫瞳与红黑轻纱长裙的清冷少女，悬停时轻盈旋身拂袖 | Codex Pet Sprite v2 | [查看角色](yuanyao/README.md) |
 
 ## 仓库结构
 

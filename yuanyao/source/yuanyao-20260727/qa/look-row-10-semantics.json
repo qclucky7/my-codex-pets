@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "source_strip": "decoded/look-row-10.png",
+  "directions": [
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "face, chin and pupils aim clearly downward",
+      "reason": "unmistakable vertical-down cardinal"
+    },
+    {
+      "degree": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "downward gaze gains a subtle screen-left face turn",
+      "reason": "first clockwise step from the down anchor"
+    },
+    {
+      "degree": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "face remains lowered while turning farther toward screen-left",
+      "reason": "coherent diagonal progression"
+    },
+    {
+      "degree": "247.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "screen-left profile dominates with a remaining downward cue",
+      "reason": "continuous approach to the left cardinal"
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "nose tip, pupils and face profile point toward the screen-left edge",
+      "reason": "unmistakable horizontal-left cardinal"
+    },
+    {
+      "degree": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "the same screen-left face side is retained while the chin begins to lift",
+      "reason": "no mirrored-face reversal after the left cardinal"
+    },
+    {
+      "degree": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "screen-left profile remains stable with a stronger upward pitch",
+      "reason": "coherent diagonal progression"
+    },
+    {
+      "degree": "337.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "face remains on the screen-left side and approaches the vertical-up anchor",
+      "reason": "one continuous step before 000 up"
+    }
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "the visible cheek, nose, ear and braid occlusion stay on one screen-left face side across 270 through 337.5 while the head progressively pitches upward without a profile flip"
+  }
+}

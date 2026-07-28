@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        469,
+        839
+      ],
+      "used_pixels": 120207,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        469,
+        0,
+        938,
+        839
+      ],
+      "used_pixels": 118598,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        938,
+        0,
+        1406,
+        839
+      ],
+      "used_pixels": 119811,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1406,
+        0,
+        1875,
+        839
+      ],
+      "used_pixels": 119296,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

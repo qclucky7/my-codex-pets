@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "reason": "Frontal face, raised chin, and upward pupils clearly indicate up."
+    },
+    {
+      "direction": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Face and pupils shift screen-right while chin and gaze remain raised."
+    },
+    {
+      "direction": "045",
+      "verdict": "warning",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Rightward face and raised pupils are correct, though the transition from 022.5 is slightly abrupt."
+    },
+    {
+      "direction": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Clear screen-right profile with elevated chin and pupils."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "screen-right",
+      "reason": "Level screen-right profile and horizontal gaze are unambiguous."
+    },
+    {
+      "direction": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Screen-right profile with lowered pupils and chin."
+    },
+    {
+      "direction": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Stronger screen-right turn with clearly lowered face and gaze."
+    },
+    {
+      "direction": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "A slight screen-right bias remains while the bowed head and pupils indicate down."
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down",
+      "reason": "Centered bowed head and downward pupils clearly indicate down."
+    },
+    {
+      "direction": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Face turns screen-left while chin and pupils remain lowered."
+    },
+    {
+      "direction": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Clear screen-left profile with downward gaze."
+    },
+    {
+      "direction": "247.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Screen-left face and pupils remain below level."
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "screen-left",
+      "reason": "Level screen-left profile and horizontal gaze are unambiguous."
+    },
+    {
+      "direction": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Screen-left profile with raised chin and pupils."
+    },
+    {
+      "direction": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Clear screen-left turn with visibly elevated gaze."
+    },
+    {
+      "direction": "337.5",
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Direction is correct; the profile-to-frontal closure changes silhouette width but has no identity or semantic break."
+    }
+  ]
+}

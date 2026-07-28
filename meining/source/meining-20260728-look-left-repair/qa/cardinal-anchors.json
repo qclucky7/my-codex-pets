@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260728-look-left-repair\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        496,
+        793
+      ],
+      "used_pixels": 136670,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260728-look-left-repair\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        496,
+        0,
+        992,
+        793
+      ],
+      "used_pixels": 129812,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260728-look-left-repair\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        992,
+        0,
+        1487,
+        793
+      ],
+      "used_pixels": 125496,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260728-look-left-repair\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1487,
+        0,
+        1983,
+        793
+      ],
+      "used_pixels": 129557,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\meining\\source\\meining-20260728-look-left-repair\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

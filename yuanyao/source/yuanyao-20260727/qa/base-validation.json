@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-07-27T07:39:49.4884678Z",
+  "approved_design": "candidate-1-left",
+  "identity_review": {
+    "verdict": "pass",
+    "notes": "冷白肤色、蓝紫瞳、黑色长直发与环形编发、朱红外衣、黑色内裙、银色圆形腰饰均与选定方案一致。"
+  },
+  "composition_review": {
+    "verdict": "pass",
+    "source_size": [
+      1203,
+      1307
+    ],
+    "subject_bbox": [
+      323,
+      106,
+      873,
+      1210
+    ],
+    "projected_subject_size_in_192x208_cell": [
+      95.7,
+      192.0
+    ],
+    "notes": "单人正面紧凑全身，双手、服装轮廓和双脚完整可见。"
+  },
+  "chroma_review": {
+    "verdict": "pass",
+    "key": "#FF00FF",
+    "border_exact_fraction": 1.0,
+    "corners": [
+      "#FF00FF",
+      "#FF00FF",
+      "#FF00FF",
+      "#FF00FF"
+    ],
+    "normalization": {
+      "tool": "imagegen remove_chroma_key.py",
+      "auto_key": "border",
+      "soft_matte": true,
+      "transparent_threshold": 45,
+      "opaque_threshold": 80,
+      "despill": false,
+      "flatten_background": "#FF00FF"
+    }
+  },
+  "canonical_base": "references/canonical-base.png"
+}

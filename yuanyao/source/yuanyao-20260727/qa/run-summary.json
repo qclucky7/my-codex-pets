@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "yuanyao/source/yuanyao-20260727",
+  "spritesheet": "yuanyao/source/yuanyao-20260727/final/spritesheet-extended-clean.webp",
+  "validation": "yuanyao/source/yuanyao-20260727/final/validation-extended.json",
+  "package_validation": "yuanyao/source/yuanyao-20260727/final/validation-package.json",
+  "chroma_despill": "yuanyao/source/yuanyao-20260727/qa/chroma-despill-extended.json",
+  "contact_sheet": "yuanyao/source/yuanyao-20260727/qa/contact-sheet-extended.png",
+  "direction_sheet": "yuanyao/source/yuanyao-20260727/qa/look-directions.png",
+  "direction_semantics": "yuanyao/source/yuanyao-20260727/qa/direction-semantics.json",
+  "blind_direction_validation": "yuanyao/source/yuanyao-20260727/qa/direction-blind-validation.json",
+  "continuity": "yuanyao/source/yuanyao-20260727/qa/look-continuity.json",
+  "review": "yuanyao/source/yuanyao-20260727/qa/review.json",
+  "visual_qa": "yuanyao/source/yuanyao-20260727/qa/final-visual-qa.txt",
+  "package": "yuanyao"
+}

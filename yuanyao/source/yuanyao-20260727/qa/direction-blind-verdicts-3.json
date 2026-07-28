@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-right", "B": "screen-left", "reason": "A's pupils and nose turn right; B's profile and nose point left."},
+    {"pair": "horizontal-2", "A": "screen-right", "B": "screen-left", "reason": "A's face surface and pupils favor right; B's nose projects left."},
+    {"pair": "horizontal-3", "A": "screen-right", "B": "screen-left", "reason": "A shows a right-facing profile; B shows a left-facing profile."},
+    {"pair": "horizontal-4", "A": "screen-left", "B": "screen-right", "reason": "A's nose projects left; B's visible face and nose point right."},
+    {"pair": "horizontal-5", "A": "screen-right", "B": "screen-left", "reason": "A is in right-facing profile; B is in left-facing profile."},
+    {"pair": "horizontal-6", "A": "screen-left", "B": "screen-right", "reason": "A's bowed face angles left; B's profile nose points right."},
+    {"pair": "horizontal-7", "A": "screen-right", "B": "screen-left", "reason": "A's partially visible face points right; B's bowed nose and face angle slightly left."},
+    {"pair": "vertical-1", "A": "up", "B": "down", "reason": "A's chin, nose, and pupils lift upward; B's bowed head and closed eyes point down."},
+    {"pair": "vertical-2", "A": "up", "B": "down", "reason": "A visibly raises her chin and gaze; B lowers her face toward the ground."},
+    {"pair": "vertical-3", "A": "down", "B": "up", "reason": "A's head is bowed; B's chin and pupils are raised."},
+    {"pair": "vertical-4", "A": "ambiguous", "B": "ambiguous", "reason": "Both side profiles appear near level, without a definite upward or downward gaze."},
+    {"pair": "vertical-5", "A": "up", "B": "down", "reason": "A's profile tilts clearly upward; B's head and eyelids angle down."},
+    {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A raises her nose and chin; B bows her head with a downward gaze."},
+    {"pair": "vertical-7", "A": "down", "B": "up", "reason": "A's nose and face tilt down; B's chin and gaze lift upward."}
+  ]
+}

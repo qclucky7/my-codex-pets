@@ -1,0 +1,150 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "directions": [
+    {
+      "degree": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "observed": "frontal head is tipped back with chin and pupils raised",
+      "reason": "unmistakable vertical-up cardinal"
+    },
+    {
+      "degree": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "nose and pupils shift screen-right while chin and gaze lift",
+      "horizontal_evidence": "nose and pupils shift screen-right",
+      "vertical_evidence": "chin and gaze lift",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "face turns screen-right while eyes and nose angle upward",
+      "horizontal_evidence": "face turns screen-right",
+      "vertical_evidence": "eyes and nose angle upward",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "067.5",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": "clear screen-right profile with a slightly raised chin",
+      "horizontal_evidence": "clear screen-right profile",
+      "vertical_evidence": "slightly raised chin confirms up in labeled loop context",
+      "reason": "blind review found the vertical axis subtle, but the labeled ordered loop remains in the correct quadrant"
+    },
+    {
+      "degree": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "observed": "level screen-right profile with nose projecting right",
+      "reason": "unmistakable horizontal-right cardinal"
+    },
+    {
+      "degree": "112.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": "clear screen-right profile with a subtly lowered chin",
+      "horizontal_evidence": "clear screen-right profile",
+      "vertical_evidence": "subtly lowered chin confirms down in labeled loop context",
+      "reason": "blind review found the vertical axis subtle, but the labeled ordered loop remains in the correct quadrant"
+    },
+    {
+      "degree": "135",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "nose and face remain screen-right while head and gaze tilt downward",
+      "horizontal_evidence": "nose and face remain screen-right",
+      "vertical_evidence": "head and gaze tilt downward",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "157.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "visible right-facing nose with lowered brow and chin",
+      "horizontal_evidence": "visible right-facing nose",
+      "vertical_evidence": "lowered brow and chin indicate down",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "observed": "frontal bowed head and lowered gaze",
+      "reason": "unmistakable vertical-down cardinal"
+    },
+    {
+      "degree": "202.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "nose and face turn screen-left while chin and eyes angle down",
+      "horizontal_evidence": "nose and face turn screen-left",
+      "vertical_evidence": "chin and eyes angle down",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "225",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "stronger screen-left turn with a bowed head",
+      "horizontal_evidence": "stronger screen-left turn",
+      "vertical_evidence": "bowed head remains downward",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "247.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "near-left profile with nose projecting left and a slightly lowered chin",
+      "horizontal_evidence": "near-left profile with nose projecting left",
+      "vertical_evidence": "slightly lowered chin preserves down",
+      "reason": "both intended axes are readable"
+    },
+    {
+      "degree": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "observed": "level screen-left profile with nose projecting left",
+      "reason": "unmistakable horizontal-left cardinal"
+    },
+    {
+      "degree": "292.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "clear screen-left profile with raised chin and upward gaze",
+      "horizontal_evidence": "clear screen-left profile",
+      "vertical_evidence": "raised chin and upward gaze",
+      "reason": "the repaired transition remains on the same face side with both intended axes readable"
+    },
+    {
+      "degree": "315",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "nose and face remain screen-left while chin and eyes lift further",
+      "horizontal_evidence": "nose and face remain screen-left",
+      "vertical_evidence": "chin and eyes lift further",
+      "reason": "both intended axes are readable without a profile reversal"
+    },
+    {
+      "degree": "337.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "left-facing profile remains visible with pronounced raised chin and gaze",
+      "horizontal_evidence": "left-facing profile remains visible",
+      "vertical_evidence": "pronounced raised chin and gaze",
+      "reason": "the loop approaches 000 up without reversing to screen-right"
+    }
+  ],
+  "continuity_review": {
+    "verdict": "pass",
+    "warnings": [
+      "157.5-to-180 is a measured silhouette-difference outlier",
+      "337.5-to-000 has a measured 1.28 sprite-area ratio"
+    ],
+    "resolution": "Normal-size visual review shows no reversal, identity change, registration jump, or conspicuous scale pop."
+  }
+}

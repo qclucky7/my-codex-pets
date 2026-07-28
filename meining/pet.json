@@ -1,7 +1,7 @@
 {
   "id": "meining",
   "displayName": "梅凝",
-  "description": "《凡人修仙传》动漫梅凝的精致中国 3D 动漫 Q 版桌宠：青白绣花长裙、金铜叶片发饰与温柔灵秀面容；悬停动作改为托脸，左右移动保持与待机相同视觉大小。",
+  "description": "《凡人修仙传》动漫梅凝的精致中国 3D 动漫 Q 版桌宠：青白绣花长裙、金铜叶片发饰与温柔灵秀面容；悬停时站定托脸，鼠标跟随动作使用全新的顺时针 16 方向视角。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
