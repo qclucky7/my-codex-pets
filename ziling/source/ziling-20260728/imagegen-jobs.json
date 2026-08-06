@@ -73,6 +73,10 @@
         {
           "path": "references/canonical-base.png",
           "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/jumping.png",
+          "role": "approved slim scale, silhouette width, head size, body height, and feet-baseline reference for the repaired idle row"
         }
       ],
       "output_path": "decoded/idle.png",
@@ -93,8 +97,10 @@
         "reason": "no deterministic derivation is configured for this state"
       },
       "mirror_policy": {},
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019fa7c7-7d3f-7813-bf90-5f0e410a4a81\\call_YXSrT88dQP7lCzE9SSb7zChc.png",
-      "completed_at": "2026-07-28T09:10:00Z"
+      "source_path": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\candidates\\idle-width-headlock-repair-20260806.png",
+      "completed_at": "2026-08-06T00:00:00+08:00",
+      "previous_source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019fa7c7-7d3f-7813-bf90-5f0e410a4a81\\call_YXSrT88dQP7lCzE9SSb7zChc.png",
+      "repair_note": "Matched the repaired jumping row's 64-pixel slim silhouette and removed all head shake, nod, tilt, bob, and gaze drift; idle motion is limited to breathing and a slow blink."
     },
     {
       "id": "running-right",

@@ -11,13 +11,14 @@
   },
   "rows": [
     {
-      "state": "jumping",
+      "state": "idle",
       "frames": [
-        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\jumping\\00.png",
-        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\jumping\\01.png",
-        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\jumping\\02.png",
-        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\jumping\\03.png",
-        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\jumping\\04.png"
+        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\idle\\00.png",
+        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\idle\\01.png",
+        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\idle\\02.png",
+        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\idle\\03.png",
+        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\idle\\04.png",
+        "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\frames\\idle\\05.png"
       ],
       "method": "components"
     }
