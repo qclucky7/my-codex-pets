@@ -1,0 +1,154 @@
+{
+  "ok": false,
+  "frames_root": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [
+    "running-right frame 01 has 965 non-transparent pixels close to the chroma key",
+    "running-right frame 02 has 839 non-transparent pixels close to the chroma key",
+    "running-right frame 04 has 871 non-transparent pixels close to the chroma key",
+    "running-right frame 05 has 842 non-transparent pixels close to the chroma key",
+    "running-right frame 06 has 925 non-transparent pixels close to the chroma key"
+  ],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": false,
+      "errors": [
+        "running-right frame 01 has 965 non-transparent pixels close to the chroma key",
+        "running-right frame 02 has 839 non-transparent pixels close to the chroma key",
+        "running-right frame 04 has 871 non-transparent pixels close to the chroma key",
+        "running-right frame 05 has 842 non-transparent pixels close to the chroma key",
+        "running-right frame 06 has 925 non-transparent pixels close to the chroma key"
+      ],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13777,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 767
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14142,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 965
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13765,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 839
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12846,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 623
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14316,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 871
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13513,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 842
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13605,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 925
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\ziling\\source\\ziling-20260728\\qa\\rows\\running-right\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13051,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 532
+        }
+      ]
+    }
+  ]
+}

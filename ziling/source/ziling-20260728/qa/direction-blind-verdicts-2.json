@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-right", "B": "screen-left", "reason": "A's pupils and nose bias right of head center; B's bias left."},
+    {"pair": "horizontal-2", "A": "screen-left", "B": "screen-right", "reason": "Three-quarter face turns clearly toward the respective screen sides."},
+    {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "A shows a left-facing profile; B's nose and visible face surface aim right."},
+    {"pair": "horizontal-4", "A": "screen-right", "B": "screen-left", "reason": "A's nose points right; B is a strong left-facing profile."},
+    {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "Opposed profile silhouettes and nose directions are visible."},
+    {"pair": "horizontal-6", "A": "screen-left", "B": "screen-right", "reason": "Despite downward tilt, the nose and face plane aim left in A and right in B."},
+    {"pair": "horizontal-7", "A": "screen-right", "B": "screen-left", "reason": "Bowed heads retain opposite nose and cheek orientation: right for A, left for B."},
+    {"pair": "vertical-1", "A": "down", "B": "up", "reason": "A's eyelids and bowed chin aim down; B lifts chin and gaze."},
+    {"pair": "vertical-2", "A": "down", "B": "up", "reason": "A's head and eyes angle downward; B's eyes and face angle upward."},
+    {"pair": "vertical-3", "A": "down", "B": "up", "reason": "A has a lowered gaze and chin; B visibly raises both."},
+    {"pair": "vertical-4", "A": "up", "B": "down", "reason": "A's chin and eyes lift; B's profile gaze and chin slope downward."},
+    {"pair": "vertical-5", "A": "down", "B": "up", "reason": "A is deeply bowed with lowered eyes; B holds a raised chin and gaze."},
+    {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A's face and pupils lift; B bows her head and looks down."},
+    {"pair": "vertical-7", "A": "down", "B": "up", "reason": "In profile, A's eye and nose line slope down while B's chin and gaze lift."}
+  ]
+}

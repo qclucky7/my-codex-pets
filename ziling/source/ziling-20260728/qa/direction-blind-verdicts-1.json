@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-right", "B": "screen-left", "reason": "Near-frontal faces, but pupil placement and slight nose offsets visibly favor right for A and left for B."},
+    {"pair": "horizontal-2", "A": "screen-left", "B": "screen-right", "reason": "Nose, mask projection, and cheek exposure turn A left and B right."},
+    {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "Clear opposing three-quarter head turns shown by nose direction and visible side hair."},
+    {"pair": "horizontal-4", "A": "screen-right", "B": "screen-left", "reason": "A presents a rightward three-quarter face; B presents a leftward near-profile."},
+    {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "Profile contours and nose tips point left for A and right for B."},
+    {"pair": "horizontal-6", "A": "screen-left", "B": "screen-right", "reason": "Despite downward tilt, the nose and exposed cheek point left in A and right in B."},
+    {"pair": "horizontal-7", "A": "screen-right", "B": "screen-left", "reason": "Bowed heads retain visible opposing nose offsets: rightward in A and leftward in B."},
+    {"pair": "vertical-1", "A": "down", "B": "up", "reason": "A has a deeply bowed head and lowered eyelids; B lifts chin and eyes."},
+    {"pair": "vertical-2", "A": "down", "B": "up", "reason": "A's chin and gaze angle downward, while B's pupils and face angle upward."},
+    {"pair": "vertical-3", "A": "down", "B": "up", "reason": "A shows lowered chin and eyes; B raises the eye line and chin."},
+    {"pair": "vertical-4", "A": "up", "B": "up", "reason": "Both faces have lifted eye lines and slightly raised chins despite different horizontal turns."},
+    {"pair": "vertical-5", "A": "down", "B": "up", "reason": "A is visibly bowed with lowered eyelids; B looks above level with chin raised."},
+    {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A's pupils and chin are elevated; B's head and gaze are distinctly lowered."},
+    {"pair": "vertical-7", "A": "down", "B": "up", "reason": "In side view, A's nose and face axis slope downward, while B's slope upward."}
+  ]
+}

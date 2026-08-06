@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "horizontal-1", "A": "screen-right", "B": "ambiguous", "reason": "A's pupils and face angle bias right; B is near-frontal with no definite horizontal landmark."},
+    {"pair": "horizontal-2", "A": "screen-left", "B": "screen-right", "reason": "A's nose and face plane point left, while B's point right."},
+    {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "A is a clear left profile; B's nose tip and visible face surface turn right."},
+    {"pair": "horizontal-4", "A": "screen-right", "B": "screen-left", "reason": "A's face projects right and B is a clear left-facing profile."},
+    {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "Opposed side profiles show nose and mask projection left for A and right for B."},
+    {"pair": "horizontal-6", "A": "screen-left", "B": "screen-left", "reason": "Both bowed faces have their visible nose and face plane directed left."},
+    {"pair": "horizontal-7", "A": "screen-right", "B": "screen-left", "reason": "Despite downward tilt, A's nose projects right and B's projects left."},
+    {"pair": "vertical-1", "A": "down", "B": "up", "reason": "A has a deeply bowed head and lowered lids; B raises the chin and eyes."},
+    {"pair": "vertical-2", "A": "down", "B": "up", "reason": "A's chin and gaze are lowered, while B's pupils and chin lift upward."},
+    {"pair": "vertical-3", "A": "ambiguous", "B": "up", "reason": "A's side gaze is near level; B visibly lifts the chin and eyes."},
+    {"pair": "vertical-4", "A": "up", "B": "ambiguous", "reason": "A's eyes and chin angle upward; B's side profile reads essentially level."},
+    {"pair": "vertical-5", "A": "down", "B": "up", "reason": "A bows with closed lowered lids; B tilts the face and pupils upward."},
+    {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A's lifted pupils indicate up, while B's bowed head and closed lids indicate down."},
+    {"pair": "vertical-7", "A": "down", "B": "ambiguous", "reason": "A's head and gaze angle downward; B's side profile lacks a definite vertical tilt."}
+  ]
+}

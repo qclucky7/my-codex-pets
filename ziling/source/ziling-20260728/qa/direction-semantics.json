@@ -1,0 +1,119 @@
+{
+  "overall": "pass",
+  "continuity": "warning",
+  "continuity_reason": "The clockwise loop preserves identity, silhouette, scale intent, and quadrant order with no visible reversal; metric outliers at 157.5->180, 292.5->315, and especially 337.5->000 merit warning-level review but do not form a conspicuous semantic snap or broken pose.",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "observed": "Centered face with clearly elevated gaze and raised chin.",
+      "reason": "horizontal centered with symmetric face; vertical pupils and chin aim upward"
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "Slight screen-right turn with an upward gaze.",
+      "reason": "horizontal nose and visible face plane shift screen-right; vertical pupils sit high and chin is lifted"
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "Clear three-quarter screen-right pose looking upward.",
+      "reason": "horizontal nose and pupils aim screen-right of head center; vertical eye line and chin angle upward"
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "Strong screen-right turn retaining a readable upward tilt.",
+      "reason": "horizontal near-profile face and nose point screen-right; vertical pupils and chin remain slightly raised"
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "observed": "Unmistakable screen-right profile.",
+      "reason": "horizontal nose and face silhouette point screen-right; vertical gaze is essentially level"
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": "Clear screen-right turn with only a subtle downward component.",
+      "reason": "horizontal nose, pupils, and face plane point screen-right; vertical chin and eye line are slightly lowered but weak at normal size, matching the blind ambiguity warning"
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "Three-quarter screen-right pose with clearly lowered gaze.",
+      "reason": "horizontal nose and visible face surface aim screen-right; vertical chin and pupils angle downward"
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "Shallow screen-right turn with a pronounced bowed head.",
+      "reason": "horizontal nose and face remain displaced screen-right; vertical eyelids, pupils, and chin point distinctly down"
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "observed": "Centered frontal pose with head fully bowed.",
+      "reason": "horizontal face remains centered and symmetric; vertical closed/lowered eyes and chin unmistakably point down"
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "Slight screen-left turn with a strong downward gaze.",
+      "reason": "horizontal nose and face plane shift screen-left; vertical chin and eye line are clearly lowered"
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "Clear three-quarter screen-left pose looking down.",
+      "reason": "horizontal nose and visible face surface aim screen-left; vertical pupils and chin angle downward"
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "Near-profile screen-left pose retaining a readable downward tilt.",
+      "reason": "horizontal face silhouette and nose point screen-left; vertical bowed chin and lowered eye line indicate down"
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "observed": "Unmistakable screen-left profile.",
+      "reason": "horizontal nose and face silhouette point screen-left; vertical gaze is essentially level"
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "Strong screen-left turn with a visible upward lift.",
+      "reason": "horizontal near-profile nose and face point screen-left; vertical chin and pupils lift upward"
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "Three-quarter screen-left pose looking upward.",
+      "reason": "horizontal nose and pupils aim screen-left of head center; vertical eye line and chin are clearly raised"
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "Slight screen-left turn with a pronounced upward gaze.",
+      "reason": "horizontal nose and face plane remain shifted screen-left; vertical pupils and chin point distinctly up"
+    }
+  ]
+}
