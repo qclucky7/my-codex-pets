@@ -13,6 +13,7 @@
 | 慕沛灵（`mupeiling`） | 橙红仙裙、温柔眉眼的古风少女，悬停时正面舒展双臂感受自由 | Codex Pet Sprite v2 | [查看角色](mupeiling/README.md) |
 | 梅凝（`meining`） | 青白绣花长裙、金铜叶片发饰的温柔少女，悬停时站定托脸 | Codex Pet Sprite v2 | [查看角色](meining/README.md) |
 | 元瑶（`yuanyao`） | 黑色长发、蓝紫瞳与红黑轻纱长裙的清冷少女，悬停时轻盈旋身拂袖 | Codex Pet Sprite v2 | [查看角色](yuanyao/README.md) |
+| 紫灵（`ziling`） | 紫色眼眸、轻纱覆面与紫蓝仙裙的端庄少女，悬停时敛袖轻礼 | Codex Pet Sprite v2 | [查看角色](ziling/README.md) |
 
 ## 仓库结构
 
