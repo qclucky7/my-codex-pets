@@ -254,24 +254,8 @@
       "retry_prompt_file": "prompts/row-retries/jumping.md",
       "input_images": [
         {
-          "path": "references\\reference-01.png",
-          "role": "pet reference"
-        },
-        {
-          "path": "references\\reference-02.png",
-          "role": "pet reference"
-        },
-        {
           "path": "references\\reference-03.png",
-          "role": "pet reference"
-        },
-        {
-          "path": "references\\reference-04.png",
-          "role": "pet reference"
-        },
-        {
-          "path": "references\\reference-05.png",
-          "role": "pet reference"
+          "role": "face and hair identity reference"
         },
         {
           "path": "references/layout-guides/jumping.png",
@@ -282,8 +266,12 @@
           "role": "canonical identity reference"
         },
         {
-          "path": "qa/concepts/jumping-option-2-v3.png",
-          "role": "user-approved five-pose jumping action concept; use for action progression and corrected natural hand gestures only"
+          "path": "qa/contact-sheet-extended.png",
+          "role": "approved whole-pet identity, style, scale, and baseline reference"
+        },
+        {
+          "path": "decoded/jumping.png",
+          "role": "prior row for identity and rendering style only; do not preserve its spin or hover action"
         }
       ],
       "output_path": "decoded/jumping.png",
@@ -304,8 +292,8 @@
         "reason": "state requires its own generated animation semantics"
       },
       "mirror_policy": {},
-      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019fa292-9726-7431-906e-330efcbd3062\\call_vcKqZAmvsrJZIOYxqfunixuk.png",
-      "completed_at": "2026-07-27T08:23:12Z"
+      "source_path": "C:\\Users\\WangChen\\.codex\\generated_images\\019fd50f-728e-7b41-a379-949a44407725\\exec-7dbbdfb9-21ac-4b34-b924-a7287686c8da.png",
+      "completed_at": "2026-08-06T03:17:21.5463750Z"
     },
     {
       "id": "failed",

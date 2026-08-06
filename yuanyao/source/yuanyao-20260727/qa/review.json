@@ -463,75 +463,75 @@
           "file": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\frames\\jumping\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12975,
+          "nontransparent_pixels": 13432,
           "bbox": [
-            52,
+            51,
             5,
             140,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 24
+          "chroma_adjacent_pixels": 31
         },
         {
           "index": 1,
           "file": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\frames\\jumping\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12445,
+          "nontransparent_pixels": 13473,
           "bbox": [
-            48,
+            50,
             5,
-            144,
+            141,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 19
+          "chroma_adjacent_pixels": 24
         },
         {
           "index": 2,
           "file": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\frames\\jumping\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13580,
+          "nontransparent_pixels": 13424,
           "bbox": [
-            43,
+            50,
             5,
-            148,
+            141,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 35
+          "chroma_adjacent_pixels": 31
         },
         {
           "index": 3,
           "file": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\frames\\jumping\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13767,
+          "nontransparent_pixels": 13414,
           "bbox": [
-            44,
+            50,
             5,
-            147,
+            141,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 32
+          "chroma_adjacent_pixels": 31
         },
         {
           "index": 4,
           "file": "D:\\github\\my-codex-pets\\yuanyao\\source\\yuanyao-20260727\\frames\\jumping\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12925,
+          "nontransparent_pixels": 13408,
           "bbox": [
-            52,
+            51,
             5,
-            139,
+            141,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 27
+          "chroma_adjacent_pixels": 32
         }
       ]
     },

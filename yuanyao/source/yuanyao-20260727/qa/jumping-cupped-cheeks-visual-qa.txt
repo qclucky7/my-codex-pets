@@ -1,0 +1,5 @@
+visual_qa=pass
+qa_note=Row 4 shows a stable front-facing five-frame hands-to-cheeks sequence with natural wrist connections, unobscured facial identity, consistent idle-scale baseline, and no structural regression elsewhere in the clean v2 atlas.
+review_warnings=067.5 and 112.5 retain accepted subtle vertical-axis ambiguity;continuity metrics retain accepted 157.5-to-180 and 337.5-to-000 warnings without visible pop, reversal, or identity drift
+repair_rows=none
+repair_notes=none

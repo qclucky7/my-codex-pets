@@ -26,7 +26,7 @@
 | `running-right` | 向右拖动移动，长发与轻纱自然跟随 |
 | `running-left` | 向左拖动移动，保持正确朝向与交替步态 |
 | `waving` | 克制而自然的挥手问候 |
-| `jumping` | 专属轻盈旋身、拂袖与回望动作，不采用普通跳跃 |
+| `jumping` | 双手自然抬起托住脸颊，微微歪头并轻眨眼的可爱专属动作 |
 | `failed` | 低头收势的失落反馈 |
 | `waiting` | 安静等待确认或用户输入 |
 | `running` | 专注处理任务 |
@@ -35,7 +35,7 @@
 
 ![元瑶挥手动画](assets/waving.gif)
 
-![元瑶专属悬停动作](assets/jumping.gif)
+![元瑶双手托脸悬停动作](assets/jumping.gif)
 
 ![元瑶向右移动动画](assets/running-right.gif)
 
