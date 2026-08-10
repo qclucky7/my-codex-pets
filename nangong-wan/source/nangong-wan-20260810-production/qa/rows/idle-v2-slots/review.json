@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [
+    "idle used extraction method slots; component extraction is preferred"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11777,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12242,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12209,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12334,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12290,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-slots\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11691,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        }
+      ]
+    }
+  ]
+}

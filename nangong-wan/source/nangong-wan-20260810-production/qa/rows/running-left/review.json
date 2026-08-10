@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames",
+  "states": [
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14177,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 585
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14282,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 668
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14896,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 686
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14379,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 617
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14823,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 725
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13889,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 618
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14626,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 697
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\running-left\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14069,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 787
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "idle used extraction method slots; component extraction is preferred",
+    "running-right used extraction method slots; component extraction is preferred",
+    "running-left used extraction method slots; component extraction is preferred",
+    "waving used extraction method slots; component extraction is preferred",
+    "jumping used extraction method slots; component extraction is preferred",
+    "failed used extraction method slots; component extraction is preferred",
+    "waiting used extraction method slots; component extraction is preferred",
+    "running used extraction method slots; component extraction is preferred",
+    "review used extraction method slots; component extraction is preferred"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11777,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12242,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12209,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12334,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12290,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11691,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15563,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 591
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15455,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 557
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15381,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 605
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15965,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 596
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15483,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 599
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15047,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 617
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14949,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 661
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15375,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 550
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15563,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 591
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15455,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 557
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15381,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 605
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15965,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 596
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15483,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 599
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15047,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 617
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14949,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 661
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15375,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 550
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12227,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12828,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13125,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12219,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 229
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11734,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11462,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12045,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12274,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11968,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12544,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12447,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 354
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12373,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 382
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11640,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 447
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11597,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11662,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 422
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11637,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11821,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12210,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 297
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12228,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 290
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12178,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12280,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 290
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12277,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 269
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12321,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11651,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11085,
+          "bbox": [
+            58,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 266
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11136,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11205,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11136,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11029,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11253,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10937,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10717,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11222,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 221
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11168,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11104,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        }
+      ]
+    }
+  ]
+}

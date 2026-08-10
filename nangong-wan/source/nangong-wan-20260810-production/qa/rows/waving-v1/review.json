@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\waving-v1\\frames",
+  "states": [
+    "waving"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\waving-v1\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12184,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\waving-v1\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12785,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\waving-v1\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13092,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\waving-v1\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12165,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        }
+      ]
+    }
+  ]
+}

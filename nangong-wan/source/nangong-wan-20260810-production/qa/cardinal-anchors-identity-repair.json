@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        444,
+        887
+      ],
+      "used_pixels": 137967,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors-repair\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        444,
+        0,
+        887,
+        887
+      ],
+      "used_pixels": 134552,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors-repair\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        887,
+        0,
+        1330,
+        887
+      ],
+      "used_pixels": 135790,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors-repair\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1330,
+        0,
+        1774,
+        887
+      ],
+      "used_pixels": 134532,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors-repair\\270.png"
+    }
+  ]
+}

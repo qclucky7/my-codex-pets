@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "reviewer": "user",
+  "reviewedAt": "2026-08-10",
+  "coordinateSystem": "screen coordinates; 90 is right, 180 is down, 270 is left",
+  "results": [
+    { "degrees": 0, "expected": "up", "observed": "pupils high, chin lifted", "reason": "same idle Q-version face clearly looks above the screen", "verdict": "pass" },
+    { "degrees": 22.5, "expected": "up-right", "observed": "eyes and nose begin moving screen-right while gaze stays raised", "reason": "visible horizontal and vertical axes", "verdict": "pass" },
+    { "degrees": 45, "expected": "up-right", "observed": "screen-right head turn with raised gaze", "reason": "coherent interpolation toward 90", "verdict": "pass" },
+    { "degrees": 67.5, "expected": "up-right", "observed": "strong screen-right turn with mild upward gaze", "reason": "one step before the right cardinal", "verdict": "pass" },
+    { "degrees": 90, "expected": "right", "observed": "nose and pupils point toward the image right edge", "reason": "unmistakable screen-right cardinal", "verdict": "pass" },
+    { "degrees": 112.5, "expected": "down-right", "observed": "screen-right head turn with gaze beginning to lower", "reason": "both intended axes remain visible", "verdict": "pass" },
+    { "degrees": 135, "expected": "down-right", "observed": "eyes and chin lower while face remains screen-right", "reason": "coherent interpolation toward down", "verdict": "pass" },
+    { "degrees": 157.5, "expected": "down-right", "observed": "strong downward gaze with residual screen-right turn", "reason": "one step before the down cardinal", "verdict": "pass" },
+    { "degrees": 180, "expected": "down", "observed": "front Q-version face lowers pupils, eyelids and chin", "reason": "same idle character remains recognizable while clearly looking down", "verdict": "pass" },
+    { "degrees": 202.5, "expected": "down-left", "observed": "lowered gaze begins turning toward image left", "reason": "visible down and screen-left axes", "verdict": "pass" },
+    { "degrees": 225, "expected": "down-left", "observed": "nose and pupils move screen-left while gaze remains low", "reason": "coherent interpolation toward 270", "verdict": "pass" },
+    { "degrees": 247.5, "expected": "down-left", "observed": "stronger screen-left turn with mild downward gaze", "reason": "one step before the left cardinal", "verdict": "pass" },
+    { "degrees": 270, "expected": "left", "observed": "nose and pupils point toward the image left edge", "reason": "unmistakable screen-left cardinal and opposite of 90", "verdict": "pass" },
+    { "degrees": 292.5, "expected": "up-left", "observed": "screen-left head turn with gaze beginning to rise", "reason": "both intended axes remain visible", "verdict": "pass" },
+    { "degrees": 315, "expected": "up-left", "observed": "eyes and chin rise while face remains screen-left", "reason": "coherent interpolation toward up", "verdict": "pass" },
+    { "degrees": 337.5, "expected": "up-left", "observed": "strong upward gaze with residual screen-left turn", "reason": "one step before returning to 0", "verdict": "pass" }
+  ],
+  "notes": [
+    "User explicitly confirmed the repaired idle and direction QA candidate before release overwrite.",
+    "Feet and lower-skirt baselines remain anchored.",
+    "Continuity metric warnings at 157.5→180 and 337.5→0 are retained for traceability; no visible identity or registration pop was accepted."
+  ]
+}

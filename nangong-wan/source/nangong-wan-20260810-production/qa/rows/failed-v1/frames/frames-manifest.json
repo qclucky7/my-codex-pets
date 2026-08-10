@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "failed",
+      "frames": [
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\00.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\01.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\02.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\03.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\04.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\05.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\06.png",
+        "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1\\frames\\failed\\07.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

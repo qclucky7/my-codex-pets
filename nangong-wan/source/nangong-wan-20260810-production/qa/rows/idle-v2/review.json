@@ -1,0 +1,128 @@
+{
+  "ok": false,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [
+    "idle frame 00 is empty or too sparse (54 pixels)",
+    "idle frame 01 is empty or too sparse (48 pixels)",
+    "idle frame 02 is empty or too sparse (51 pixels)",
+    "idle frame 04 is empty or too sparse (31 pixels)",
+    "idle frame 05 is empty or too sparse (52 pixels)"
+  ],
+  "warnings": [
+    "idle frame 03 is much larger than the row median (11828 vs 52)"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": false,
+      "errors": [
+        "idle frame 00 is empty or too sparse (54 pixels)",
+        "idle frame 01 is empty or too sparse (48 pixels)",
+        "idle frame 02 is empty or too sparse (51 pixels)",
+        "idle frame 04 is empty or too sparse (31 pixels)",
+        "idle frame 05 is empty or too sparse (52 pixels)"
+      ],
+      "warnings": [
+        "idle frame 03 is much larger than the row median (11828 vs 52)"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 54,
+          "bbox": [
+            93,
+            96,
+            98,
+            111
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 48,
+          "bbox": [
+            93,
+            96,
+            99,
+            111
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 20
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 51,
+          "bbox": [
+            93,
+            96,
+            98,
+            111
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11828,
+          "bbox": [
+            5,
+            65,
+            187,
+            143
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 31,
+          "bbox": [
+            93,
+            93,
+            99,
+            114
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 52,
+          "bbox": [
+            92,
+            97,
+            100,
+            110
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        }
+      ]
+    }
+  ]
+}

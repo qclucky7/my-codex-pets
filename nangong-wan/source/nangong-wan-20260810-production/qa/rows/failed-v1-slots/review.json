@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [
+    "failed used extraction method slots; component extraction is preferred"
+  ],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method slots; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12544,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12447,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 354
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12373,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 382
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11640,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 447
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11597,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11662,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 422
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11637,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\failed-v1-slots\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11821,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        }
+      ]
+    }
+  ]
+}

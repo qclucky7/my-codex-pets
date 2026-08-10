@@ -1,0 +1,64 @@
+{
+  "ok": false,
+  "strip": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [
+    "180 has 351 non-transparent pixels near its source slot edge",
+    "270 has 411 non-transparent pixels near its source slot edge"
+  ],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        440,
+        893
+      ],
+      "used_pixels": 163658,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        440,
+        0,
+        880,
+        893
+      ],
+      "used_pixels": 162663,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        880,
+        0,
+        1321,
+        893
+      ],
+      "used_pixels": 163654,
+      "edge_pixels": 351,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1321,
+        0,
+        1761,
+        893
+      ],
+      "used_pixels": 157483,
+      "edge_pixels": 411,
+      "output": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

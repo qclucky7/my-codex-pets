@@ -1,0 +1,130 @@
+{
+  "ok": false,
+  "frames_root": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [
+    "idle frame 00 is empty or too sparse (12 pixels)",
+    "idle frame 01 is empty or too sparse (12 pixels)",
+    "idle frame 02 is empty or too sparse (11 pixels)",
+    "idle frame 04 is empty or too sparse (11 pixels)",
+    "idle frame 05 is empty or too sparse (11 pixels)"
+  ],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "idle frame 03 is much larger than the row median (11701 vs 12)"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": false,
+      "errors": [
+        "idle frame 00 is empty or too sparse (12 pixels)",
+        "idle frame 01 is empty or too sparse (12 pixels)",
+        "idle frame 02 is empty or too sparse (11 pixels)",
+        "idle frame 04 is empty or too sparse (11 pixels)",
+        "idle frame 05 is empty or too sparse (11 pixels)"
+      ],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+        "idle frame 03 is much larger than the row median (11701 vs 12)"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12,
+          "bbox": [
+            93,
+            70,
+            99,
+            75
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12,
+          "bbox": [
+            93,
+            70,
+            99,
+            75
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11,
+          "bbox": [
+            93,
+            70,
+            99,
+            75
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11701,
+          "bbox": [
+            5,
+            65,
+            187,
+            143
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 79
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11,
+          "bbox": [
+            93,
+            98,
+            99,
+            103
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 3
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\nangong-wan\\source\\nangong-wan-20260810-production\\qa\\rows\\idle-v2-stable\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11,
+          "bbox": [
+            93,
+            68,
+            99,
+            75
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        }
+      ]
+    }
+  ]
+}

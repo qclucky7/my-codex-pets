@@ -14,6 +14,7 @@
 | 梅凝（`meining`） | 青白绣花长裙、金铜叶片发饰的温柔少女，悬停时站定托脸 | Codex Pet Sprite v2 | [查看角色](meining/README.md) |
 | 元瑶（`yuanyao`） | 黑色长发、蓝紫瞳与红黑轻纱长裙的清冷少女，悬停时双手托脸、微微歪头 | Codex Pet Sprite v2 | [查看角色](yuanyao/README.md) |
 | 紫灵（`ziling`） | 紫色眼眸、轻纱覆面与紫蓝仙裙的端庄少女，悬停时敛袖轻礼 | Codex Pet Sprite v2 | [查看角色](ziling/README.md) |
+| 南宫婉（`nangong-wan`） | 银蓝发冠、额心红纹与蓝白仙裙的清雅少女，悬停时双手掐诀、双脚落地 | Codex Pet Sprite v2 | [查看角色](nangong-wan/README.md) |
 
 ## 仓库结构
 
