@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine standard rows preserve identity, style, scale, transparency, and intended semantics, including the approved grounded jumping flourish; the repaired 16-direction loop has correct cardinals, quadrants, and coherent clockwise progression.",
+  "review_warnings": [
+    "247.5, 292.5, and 315 have subtle intermediate vertical cues but remain in the correct labeled quadrants without reversal.",
+    "157.5->180, 225->247.5, and 337.5->000 continuity metrics warn, but normal-size review shows stable height, feet baseline, identity, and natural profile-to-front silhouette changes.",
+    "Stable-slots extraction warnings were visually reviewed with no clipping or unintended motion popping."
+  ],
+  "repair_rows": [],
+  "repair_notes": []
+}

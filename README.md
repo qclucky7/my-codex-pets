@@ -15,6 +15,7 @@
 | 元瑶（`yuanyao`） | 黑色长发、蓝紫瞳与红黑轻纱长裙的清冷少女，悬停时双手托脸、微微歪头 | Codex Pet Sprite v2 | [查看角色](yuanyao/README.md) |
 | 紫灵（`ziling`） | 紫色眼眸、轻纱覆面与紫蓝仙裙的端庄少女，悬停时敛袖轻礼 | Codex Pet Sprite v2 | [查看角色](ziling/README.md) |
 | 南宫婉（`nangong-wan`） | 银蓝发冠、额心红纹与蓝白仙裙的清雅少女，悬停时双手掐诀、双脚落地 | Codex Pet Sprite v2 | [查看角色](nangong-wan/README.md) |
+| 乐上师（`leshangshi`） | 青绿头纱、银色翠玉额饰与青绿银纹祭服的幕兰法士，展开双臂时保持双脚落地 | Codex Pet Sprite v2 | [查看角色](leshangshi/README.md) |
 
 ## 仓库结构
 
