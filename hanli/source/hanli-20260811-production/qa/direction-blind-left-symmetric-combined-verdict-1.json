@@ -1,0 +1,108 @@
+{
+  "review": "isolated-blind",
+  "source": "direction-blind-left-symmetric-combined.png",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的鼻尖与面部朝画面右侧，B 的鼻尖与面部朝画面左侧。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的鼻尖位于头部中心左侧，B 的鼻尖位于头部中心右侧。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的脸面和鼻尖朝左，B 的脸面和鼻尖朝右。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的侧脸轮廓指向右侧，B 的侧脸轮廓指向左侧。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "两者虽低头，A 的鼻尖仍明确朝右，B 明确朝左。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的低头侧脸朝右，B 的低头侧脸朝左。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的鼻尖和可见脸面偏左，B 偏右。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A 明显低头垂眼，B 抬高下巴与视线。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的下巴与视线下压，B 的脸面和视线抬升。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A 低头看向下方，B 抬头看向上方。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的眼线与鼻尖略向下，B 的下巴和眼线向上。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A 明显俯首，B 明显仰首。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A 抬高下巴与脸面，B 低头并将视线压向下方。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的头部和视线向下，B 的头部和视线向上。"
+    }
+  ],
+  "row10_left_system": {
+    "pose_family_coverage": "pass",
+    "observed": "图中可见明确的 down、down-left、left 与 up-left 外观族，水平侧向和垂直俯仰均有渐进差异。",
+    "ordered_down_to_down_left_to_left_to_up_left": "not-verifiable-from-blind-sheet",
+    "reason": "随机 A/B 轴向图未显示 row10 帧序或方向标签，不能用配对编号反推播放顺序。"
+  },
+  "seam_270": {
+    "verdict": "not-verifiable-from-blind-sheet",
+    "reason": "图中没有标明 270 帧及其时序相邻帧；只能确认存在清晰的纯左和邻近左向姿态，无法独立证明接缝连续。"
+  },
+  "identity_and_scale": {
+    "verdict": "pass",
+    "identity_drift": "none-obvious",
+    "scale_drift": "none-obvious",
+    "reason": "各格发型、发髻、绿色长袍、灰色内裙、身体比例、脚底基线与可见身高保持一致，未见显著身份或尺度跳变。"
+  },
+  "overall": "pass-with-sequence-and-seam-unverifiable",
+  "notes": "所有显示的 A/B 轴向均可在正常展示尺寸下依靠鼻尖、脸面、下巴与眼线辨认；未从 A/B 排列猜测方向或时序。"
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "failed_checks": ["vertical-7 A: 292.5 vertical axis ambiguous"],
+  "evidence": "Labeled normal-size review shows a clear screen-left turn with the chin beginning to lift; 270->292.5->315 advances continuously without reversal, and both horizontal cardinal and all horizontal blind pairs pass.",
+  "reviewed_by": "parent"
+}

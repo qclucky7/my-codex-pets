@@ -1,0 +1,162 @@
+{
+  "ok": true,
+  "reviewRequired": true,
+  "medianDiffPixels": 850.5,
+  "warnings": [
+    "045->067.5 diff is a local outlier (961 pixels vs neighbor average 660)",
+    "157.5->180 diff is a local outlier (4023 pixels vs neighbor average 854)",
+    "157.5->180 center shift is high (16.0px)",
+    "157.5->180 sprite area ratio is high (1.42)",
+    "270->292.5 diff is a local outlier (1164 pixels vs neighbor average 756)",
+    "337.5->000 diff is a local outlier (3952 pixels vs neighbor average 838)",
+    "337.5->000 center shift is high (15.5px)",
+    "337.5->000 sprite area ratio is high (1.41)"
+  ],
+  "alphaHoles": [],
+  "pairs": [
+    {
+      "from": "000",
+      "to": "022.5",
+      "firstPixels": 10100,
+      "secondPixels": 10142,
+      "diffPixels": 849,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0041584158415842
+    },
+    {
+      "from": "022.5",
+      "to": "045",
+      "firstPixels": 10142,
+      "secondPixels": 10187,
+      "diffPixels": 469,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0044369946756064
+    },
+    {
+      "from": "045",
+      "to": "067.5",
+      "firstPixels": 10187,
+      "secondPixels": 10246,
+      "diffPixels": 961,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.0057916952979287
+    },
+    {
+      "from": "067.5",
+      "to": "090",
+      "firstPixels": 10246,
+      "secondPixels": 10362,
+      "diffPixels": 851,
+      "centerDelta": 0.7071067811865476,
+      "areaRatio": 1.0113214913136834
+    },
+    {
+      "from": "090",
+      "to": "112.5",
+      "firstPixels": 10362,
+      "secondPixels": 10337,
+      "diffPixels": 566,
+      "centerDelta": 0.0,
+      "areaRatio": 1.0024184966624745
+    },
+    {
+      "from": "112.5",
+      "to": "135",
+      "firstPixels": 10337,
+      "secondPixels": 10491,
+      "diffPixels": 876,
+      "centerDelta": 0.7071067811865476,
+      "areaRatio": 1.0148979394408435
+    },
+    {
+      "from": "135",
+      "to": "157.5",
+      "firstPixels": 10491,
+      "secondPixels": 10507,
+      "diffPixels": 850,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0015251167667525
+    },
+    {
+      "from": "157.5",
+      "to": "180",
+      "firstPixels": 10507,
+      "secondPixels": 7385,
+      "diffPixels": 4023,
+      "centerDelta": 16.0312195418814,
+      "areaRatio": 1.4227488151658767
+    },
+    {
+      "from": "180",
+      "to": "202.5",
+      "firstPixels": 7385,
+      "secondPixels": 7323,
+      "diffPixels": 859,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0084664754881878
+    },
+    {
+      "from": "202.5",
+      "to": "225",
+      "firstPixels": 7323,
+      "secondPixels": 7391,
+      "diffPixels": 593,
+      "centerDelta": 0.0,
+      "areaRatio": 1.0092858118257544
+    },
+    {
+      "from": "225",
+      "to": "247.5",
+      "firstPixels": 7391,
+      "secondPixels": 7307,
+      "diffPixels": 856,
+      "centerDelta": 1.0,
+      "areaRatio": 1.0114958259203504
+    },
+    {
+      "from": "247.5",
+      "to": "270",
+      "firstPixels": 7307,
+      "secondPixels": 7303,
+      "diffPixels": 839,
+      "centerDelta": 0.0,
+      "areaRatio": 1.0005477201150212
+    },
+    {
+      "from": "270",
+      "to": "292.5",
+      "firstPixels": 7303,
+      "secondPixels": 7516,
+      "diffPixels": 1164,
+      "centerDelta": 1.0,
+      "areaRatio": 1.02916609612488
+    },
+    {
+      "from": "292.5",
+      "to": "315",
+      "firstPixels": 7516,
+      "secondPixels": 7358,
+      "diffPixels": 673,
+      "centerDelta": 0.7071067811865476,
+      "areaRatio": 1.0214732264202229
+    },
+    {
+      "from": "315",
+      "to": "337.5",
+      "firstPixels": 7358,
+      "secondPixels": 7145,
+      "diffPixels": 826,
+      "centerDelta": 0.0,
+      "areaRatio": 1.029811056682995
+    },
+    {
+      "from": "337.5",
+      "to": "000",
+      "firstPixels": 7145,
+      "secondPixels": 10100,
+      "diffPixels": 3952,
+      "centerDelta": 15.532224567009067,
+      "areaRatio": 1.4135759272218333
+    }
+  ]
+}

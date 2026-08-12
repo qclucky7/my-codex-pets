@@ -16,6 +16,7 @@
 | 紫灵（`ziling`） | 紫色眼眸、轻纱覆面与紫蓝仙裙的端庄少女，悬停时敛袖轻礼 | Codex Pet Sprite v2 | [查看角色](ziling/README.md) |
 | 南宫婉（`nangong-wan`） | 银蓝发冠、额心红纹与蓝白仙裙的清雅少女，悬停时双手掐诀、双脚落地 | Codex Pet Sprite v2 | [查看角色](nangong-wan/README.md) |
 | 乐上师（`yueshangshi`） | 青绿头纱、银色翠玉额饰与青绿银纹祭服的幕兰法士，展开双臂时保持双脚落地 | Codex Pet Sprite v2 | [查看角色](yueshangshi/README.md) |
+| 韩立（`hanli`） | 青竹小轩时期的青绿竹纹长袍与沉静锐利眼神，悬停时持古卷推演阵法 | Codex Pet Sprite v2 | [查看角色](hanli/README.md) |
 
 ## 仓库结构
 
@@ -32,7 +33,7 @@ my-codex-pets/
     `-- source/        # 生成输入、中间文件与 QA 证据
 ```
 
-后续《凡人修仙传》角色直接添加为新的顶层目录，例如 `han-li/`。目录名必须与 `pet.json` 的 `id` 一致，使用小写 ASCII kebab-case。
+后续《凡人修仙传》角色直接添加为新的顶层目录，例如 `hanli/`。目录名必须与 `pet.json` 的 `id` 一致，使用小写 ASCII kebab-case。
 
 ## 安装 pet
 

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "input": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\look-row-10-left-symmetric-registered-pre-despill.png",
+  "output": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\look-row-10-left-symmetric-registered.png",
+  "chroma_key": "#FF00FF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 10580,
+  "decontaminated_pixels": 10323,
+  "spill_suppressed_pixels": 10580,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c1": 1337,
+    "r0c6": 1334,
+    "r0c2": 1327,
+    "r0c5": 1326,
+    "r0c7": 1321,
+    "r0c4": 1319,
+    "r0c3": 1309,
+    "r0c0": 1307
+  },
+  "alpha_preserved": true
+}

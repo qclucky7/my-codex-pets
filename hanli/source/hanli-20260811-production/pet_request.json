@@ -1,0 +1,324 @@
+{
+  "pet_id": "hanli",
+  "display_name": "\u97e9\u7acb",
+  "description": "\u9752\u7af9\u5c0f\u8f69\u65f6\u671f\u7684\u97e9\u7acb\uff0c\u6c89\u9759\u514b\u5236\u3001\u7814\u4e60\u70bc\u5668\u9635\u6cd5\u7684\u7cbe\u81f4\u4e2d\u56fd3D\u52a8\u6f2bQ\u7248Codex\u52a8\u6001\u684c\u5ba0\u3002.",
+  "created_at": "2026-08-11T07:06:13.866734+00:00",
+  "sprite_version_number": 2,
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    },
+    {
+      "state": "look-row-9",
+      "row": 9,
+      "frames": 8,
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "purpose": "clockwise look directions from up through down-right"
+    },
+    {
+      "state": "look-row-10",
+      "row": 10,
+      "frames": 8,
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "purpose": "clockwise look directions from down through up-left"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references\\layout-guides\\idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references\\layout-guides\\running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references\\layout-guides\\running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references\\layout-guides\\waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references\\layout-guides\\jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references\\layout-guides\\failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references\\layout-guides\\waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references\\layout-guides\\running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references\\layout-guides\\review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-9",
+      "path": "references\\layout-guides\\look-row-9.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-10",
+      "path": "references\\layout-guides\\look-row-10.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-cardinals",
+      "path": "references\\layout-guides\\look-cardinals.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-01.png",
+      "width": 1204,
+      "height": 1306,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-base-selection\\decoded\\candidate-c-series-friendly.png",
+      "copied_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-01.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-02.png",
+      "width": 388,
+      "height": 690,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-base-selection\\references\\reference-01.png",
+      "copied_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-02.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-03.png",
+      "width": 388,
+      "height": 690,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-base-selection\\references\\reference-02.png",
+      "copied_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-03.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-04.png",
+      "width": 619,
+      "height": 1080,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-base-selection\\references\\reference-03.png",
+      "copied_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-04.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-05.png",
+      "width": 190,
+      "height": 265,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-base-selection\\references\\reference-04.png",
+      "copied_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-05.png"
+    },
+    {
+      "path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-06.png",
+      "width": 252,
+      "height": 391,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-base-selection\\references\\reference-05.png",
+      "copied_path": "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\references\\reference-06.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "\u5019\u9009C\u5df2\u83b7\u7528\u6237\u6279\u51c6\u4f46\u4ec5\u4f5c\u8bbe\u8ba1\u4f9d\u636e\u3002\u5fc5\u987b\u5355\u72ec\u751f\u6210\u751f\u4ea7\u57fa\u672c\u56fe\uff1a\u97e9\u7acb\u4e25\u683c\u6b63\u9762\u7ad9\u7acb\u3001\u53cc\u773c\u76f4\u89c6\u3001\u7a84\u957f\u7070\u8910\u773c\u3001\u7709\u773c\u51b7\u9759\u514b\u5236\u3001\u5e74\u8f7b\u4fca\u6717\u4e14\u6709\u7537\u6027\u82f1\u6c14\uff0c\u4e0d\u80fd\u5e7c\u6001\u6216\u901a\u7528\u840c\u7cfb\u5927\u773c\uff1b\u534a\u675f\u957f\u9ed1\u53d1\u548c\u6a2a\u5411\u53d1\u7c2a\uff1b\u58a8\u7eff\u5bbd\u8896\u957f\u5916\u888d\u3001\u6d45\u7070\u84dd\u4ea4\u9886\u5185\u886b\u3001\u6df1\u8272\u8170\u5c01\u3001\u53cc\u624b\u53cc\u811a\u5b8c\u6574\u3002\u7ea6\u4e09\u5934\u8eab\uff0c\u6309192x208\u5355\u5143\u683c\u5145\u5206\u5360\u4f4d\u3002jumping\u884c\u4e0d\u8df3\u8dc3\uff0c\u6539\u4e3a\u9752\u7af9\u5c0f\u8f69\u65f6\u671f\u5de6\u624b\u6258\u65e7\u7ee2\u4e66\u7814\u8bfb\u3001\u7ffb\u9875\u3001\u53f3\u624b\u5e76\u6307\u63a8\u6f14\u3001\u9894\u9996\u56de\u770b\u4e66\u9875\u7684\u4e94\u5e27\u5faa\u73af\u3002",
+  "style_preset": "auto",
+  "style_notes": "\u7cbe\u81f4\u4e2d\u56fd3D\u52a8\u6f2bQ\u7248\uff0c\u4e0e\u94f6\u6708\u3001\u5b8b\u7389\u3001\u6155\u6c9b\u7075\u7cfb\u5217\u7edf\u4e00\uff1b\u8f6e\u5ed3\u6e05\u6670\u3001\u6750\u8d28\u7ec6\u817b\u3001\u6b63\u9762\u773c\u795e\u5728\u5c0f\u5c3a\u5bf8\u4ecd\u53ef\u8fa8\u8bc6\u3002",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: \u7cbe\u81f4\u4e2d\u56fd3D\u52a8\u6f2bQ\u7248\uff0c\u4e0e\u94f6\u6708\u3001\u5b8b\u7389\u3001\u6155\u6c9b\u7075\u7cfb\u5217\u7edf\u4e00\uff1b\u8f6e\u5ed3\u6e05\u6670\u3001\u6750\u8d28\u7ec6\u817b\u3001\u6b63\u9762\u773c\u795e\u5728\u5c0f\u5c3a\u5bf8\u4ecd\u53ef\u8fa8\u8bc6\u3002.",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen"
+}

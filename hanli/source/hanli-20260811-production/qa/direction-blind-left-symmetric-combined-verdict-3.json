@@ -1,0 +1,105 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的鼻尖和面部朝画面右侧，B 的鼻尖和面部朝画面左侧；两者虽仰视，水平朝向仍清楚。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的鼻尖、下巴和可见面部平面偏左，B 对称地偏右。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的头部与鼻尖朝左，B 的头部与鼻尖朝右。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 呈右向侧脸，B 呈左向侧脸，鼻尖位于头部中心的相应侧。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "两者均低头，但 A 的鼻尖与面部投向右下，B 投向左下。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的低垂鼻尖和脸部朝右，B 的低垂鼻尖和脸部朝左。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的低头侧脸朝左，B 的低头侧脸朝右。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的头、眼睑与鼻尖明显下压，B 的下巴和视线明显抬高。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的视线和鼻尖向下，B 的下巴、鼻尖与面部平面向上。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的眼睑、鼻尖和下巴略向下，B 的下巴与视线清楚抬起。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A 的水平侧转很清楚，但垂直俯仰接近中性；B 的下巴和目光明确向上。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A 明显低头看向地面，B 明显抬头仰视。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A 的下巴与鼻尖抬高，B 的头部、眼睑和鼻尖下垂。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的面部朝左下并低垂，B 的下巴与鼻尖朝右上抬起。"
+    }
+  ],
+  "row10_left_system": {
+    "verdict": "pass",
+    "observed": "down -> down-left -> left -> up-left",
+    "reason": "盲测图中的左侧姿态族可见从低头、低头左转、纯左侧转到抬头左转的渐进变化；鼻尖、眼睑和下巴共同承载纵向变化，未见反向跳变。"
+  },
+  "seam_270": {
+    "verdict": "pass",
+    "reason": "纯左向姿态与相邻的 down-left、up-left 姿态在头部转角、鼻尖位置、发髻、肩线和脚底基线上的过渡连续，没有明显跳帧、翻侧或尺度突变。"
+  },
+  "identity_and_scale": {
+    "verdict": "pass",
+    "reason": "所有样本保持相同发髻、长发、绿色外袍、灰色内袍、体型和脚底基线；未见明显身份漂移或视觉尺度漂移。"
+  },
+  "overall": "pass_with_warning",
+  "warnings": [
+    "vertical-4 A 在正常显示尺寸下垂直轴接近中性，判为 ambiguous；这不影响其清晰的水平侧转，但应在带标签的连续序列复核该中间姿态。"
+  ]
+}

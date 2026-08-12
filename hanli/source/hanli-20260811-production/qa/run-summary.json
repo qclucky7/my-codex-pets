@@ -1,0 +1,16 @@
+﻿{
+    "ok":  true,
+    "spriteVersionNumber":  2,
+    "run_dir":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production",
+    "spritesheet":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\final\\spritesheet-extended.webp",
+    "validation":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\final\\validation-extended.json",
+    "chroma_despill":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\chroma-despill-extended.json",
+    "contact_sheet":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\contact-sheet-extended.png",
+    "direction_sheet":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\look-directions.png",
+    "direction_semantics":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\direction-semantics.json",
+    "blind_direction_validation":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\direction-blind-validation.json",
+    "blind_review_resolution":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\blind-review-resolution.json",
+    "continuity":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\look-continuity.json",
+    "review":  "D:\\github\\my-codex-pets\\hanli\\source\\hanli-20260811-production\\qa\\review.json",
+    "package":  "D:\\github\\my-codex-pets\\hanli"
+}
