@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        418,
+        941
+      ],
+      "used_pixels": 97875,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        418,
+        0,
+        836,
+        941
+      ],
+      "used_pixels": 97031,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        836,
+        0,
+        1254,
+        941
+      ],
+      "used_pixels": 97772,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1254,
+        0,
+        1672,
+        941
+      ],
+      "used_pixels": 97650,
+      "edge_pixels": 0,
+      "output": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

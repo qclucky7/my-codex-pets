@@ -1,0 +1,164 @@
+{
+  "ok": false,
+  "frames_root": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable",
+  "states": [
+    "failed"
+  ],
+  "errors": [
+    "failed frame 00 is empty or too sparse (4 pixels)",
+    "failed frame 01 is empty or too sparse (11 pixels)",
+    "failed frame 03 is empty or too sparse (6 pixels)",
+    "failed frame 04 is empty or too sparse (4 pixels)",
+    "failed frame 05 is empty or too sparse (4 pixels)",
+    "failed frame 06 is empty or too sparse (4 pixels)",
+    "failed frame 07 is empty or too sparse (4 pixels)"
+  ],
+  "warnings": [
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed frame 02 is much larger than the row median (10933 vs 4)"
+  ],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": false,
+      "errors": [
+        "failed frame 00 is empty or too sparse (4 pixels)",
+        "failed frame 01 is empty or too sparse (11 pixels)",
+        "failed frame 03 is empty or too sparse (6 pixels)",
+        "failed frame 04 is empty or too sparse (4 pixels)",
+        "failed frame 05 is empty or too sparse (4 pixels)",
+        "failed frame 06 is empty or too sparse (4 pixels)",
+        "failed frame 07 is empty or too sparse (4 pixels)"
+      ],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+        "failed frame 02 is much larger than the row median (10933 vs 4)"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 4,
+          "bbox": [
+            95,
+            86,
+            97,
+            88
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11,
+          "bbox": [
+            93,
+            95,
+            99,
+            100
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        },
+        {
+          "index": 2,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10933,
+          "bbox": [
+            5,
+            69,
+            187,
+            139
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        },
+        {
+          "index": 3,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6,
+          "bbox": [
+            93,
+            87,
+            99,
+            89
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 4,
+          "bbox": [
+            95,
+            88,
+            97,
+            90
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 4,
+          "bbox": [
+            95,
+            85,
+            97,
+            87
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 4,
+          "bbox": [
+            95,
+            86,
+            97,
+            88
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\qa\\rows\\failed\\frames-stable\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 4,
+          "bbox": [
+            95,
+            86,
+            97,
+            88
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","reason":"pupils above eye center and chin clearly raised"},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"nose and pupils begin moving screen-right while gaze remains raised"},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","reason":"clear rightward face turn with elevated pupils"},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"nose and pupils screen-right with a remaining upward component"},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","reason":"nose tip and pupils unmistakably right of head center"},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"rightward nose and pupils with eyelids and chin beginning downward"},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","reason":"rightward face remains clear while pupils and chin lower"},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"strong downward component with nose still screen-right"},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","reason":"eyes remain open with lowered pupils and tucked chin"},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"lowered gaze with nose and pupils beginning screen-left"},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"down-left","reason":"clear leftward face and pupils with lowered chin"},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"nose and pupils remain screen-left while downward component weakens"},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","reason":"nose tip and pupils unmistakably left of head center"},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"leftward nose and pupils with eyelids and chin beginning upward"},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","reason":"clear leftward face and elevated pupils"},
+    {"direction":"337.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"strong upward component with nose still screen-left"}
+  ],
+  "review_notes": [
+    "Three independent blind reviewers unanimously confirmed both hard cardinal pairs and all intermediate axes by strict majority.",
+    "Continuity metric warnings at 157.5->180 and 337.5->000 were visually reviewed at normal size; they reflect cross-row pose-family area differences without a semantic reversal, broken silhouette, or detached part."
+  ]
+}

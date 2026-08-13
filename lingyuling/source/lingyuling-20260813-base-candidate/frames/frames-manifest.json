@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\idle\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\idle\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\idle\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\idle\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\idle\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\idle\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\05.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\06.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-right\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\05.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\06.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running-left\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waving\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waving\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waving\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waving\\03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\jumping\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\jumping\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\jumping\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\jumping\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\jumping\\04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\05.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\06.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\failed\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waiting\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waiting\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waiting\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waiting\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waiting\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\waiting\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\running\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\review\\00.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\review\\01.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\review\\02.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\review\\03.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\review\\04.png",
+        "D:\\github\\my-codex-pets\\lingyuling\\source\\lingyuling-20260813-base-candidate\\frames\\review\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}
