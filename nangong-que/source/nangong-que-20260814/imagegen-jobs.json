@@ -1,0 +1,735 @@
+{
+    "schema_version":  1,
+    "created_at":  "2026-08-14T03:43:36.675053+00:00",
+    "run_dir":  "D:\\github\\my-codex-pets\\nangong-que\\source\\nangong-que-20260814",
+    "primary_generation_skill":  "$imagegen",
+    "jobs":  [
+                 {
+                     "id":  "base",
+                     "kind":  "base-pet",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/base-pet.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-01.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-03.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/base.png",
+                     "depends_on":  [
+
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffe5e-aa55-7dd0-a173-ad0716602999\\exec-e5e23be8-a9e7-4c7f-b254-fc2a0eb575a7.png",
+                     "completed_at":  "2026-08-14T03:49:09Z"
+                 },
+                 {
+                     "id":  "idle",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/idle.md",
+                     "retry_prompt_file":  "prompts/row-retries/idle.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/idle.png",
+                                              "role":  "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/idle.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "no deterministic derivation is configured for this state"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffed9-c909-7770-993e-7711e5f1210d\\exec-4de075fd-c1c3-4494-873a-97d23d798ccb.png",
+                     "completed_at":  "2026-08-14T06:08:10Z"
+                 },
+                 {
+                     "id":  "running-right",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/running-right.md",
+                     "retry_prompt_file":  "prompts/row-retries/running-right.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/running-right.png",
+                                              "role":  "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/running-right.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "no deterministic derivation is configured for this state"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffed9-f745-78c0-a3a4-37eff3d446be\\exec-a05e293c-c1fe-4715-8869-f0e461fe7572.png",
+                     "completed_at":  "2026-08-14T06:08:10Z"
+                 },
+                 {
+                     "id":  "running-left",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/running-left.md",
+                     "retry_prompt_file":  "prompts/row-retries/running-left.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/running-left.png",
+                                              "role":  "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          },
+                                          {
+                                              "path":  "decoded/running-right.png",
+                                              "role":  "rightward gait reference for leftward row decision"
+                                          }
+                                      ],
+                     "output_path":  "decoded/running-left.png",
+                     "depends_on":  [
+                                        "base",
+                                        "running-right"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base",
+                                                  "running-right"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  true,
+                                               "may_derive_from":  "running-right",
+                                               "derivation":  "framewise-horizontal-mirror-preserving-order",
+                                               "requires_explicit_approval":  true,
+                                               "fallback_generation_skill":  "$imagegen"
+                                           },
+                     "mirror_policy":  {
+                                           "may_derive":  true,
+                                           "may_derive_from":  "running-right",
+                                           "derivation":  "framewise-horizontal-mirror-preserving-order",
+                                           "requires_explicit_approval":  true,
+                                           "fallback_generation_skill":  "$imagegen"
+                                       },
+                     "metadata":  {
+                                      "width":  1935,
+                                      "height":  813,
+                                      "mode":  "RGBA",
+                                      "format":  "PNG"
+                                  },
+                     "mirror_decision":  {
+                                             "approved":  true,
+                                             "approved_at":  "2026-08-14T06:07:56.331907+00:00",
+                                             "note":  "South-facing humanoid has symmetric robe, forehead mark, paired earrings, and no one-sided held prop; per-slot mirroring preserves identity and timing while producing leftward travel.",
+                                             "transform":  "framewise-horizontal-mirror-preserving-order"
+                                         },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffef2-891d-75b0-8cdb-5e79a5e3be47\\exec-17009edf-1187-4248-85a4-df3eb824892d.png",
+                     "completed_at":  "2026-08-14T06:30:40Z"
+                 },
+                 {
+                     "id":  "waving",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/waving.md",
+                     "retry_prompt_file":  "prompts/row-retries/waving.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/waving.png",
+                                              "role":  "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/waving.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "state requires its own generated animation semantics"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffee3-1542-7731-8930-b93a8eb075b2\\exec-6988a384-4d0e-46e7-b504-489d565bd8b9.png",
+                     "completed_at":  "2026-08-14T06:14:57Z"
+                 },
+                 {
+                     "id":  "jumping",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/jumping.md",
+                     "retry_prompt_file":  "prompts/row-retries/jumping.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/jumping.png",
+                                              "role":  "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/jumping.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "state requires its own generated animation semantics"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffee3-3e2c-7e81-9e6f-f697af9cb3bd\\exec-d9169f9a-7325-4fb2-b15a-9771ba6bcce1.png",
+                     "completed_at":  "2026-08-14T06:14:57Z"
+                 },
+                 {
+                     "id":  "failed",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/failed.md",
+                     "retry_prompt_file":  "prompts/row-retries/failed.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/failed.png",
+                                              "role":  "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/failed.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "state requires its own generated animation semantics"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffee3-6960-78f3-b7e5-2ccd87c21c6b\\exec-4ca2285e-53c9-459c-83c9-102ea30963c7.png",
+                     "completed_at":  "2026-08-14T06:14:57Z"
+                 },
+                 {
+                     "id":  "waiting",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/waiting.md",
+                     "retry_prompt_file":  "prompts/row-retries/waiting.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/waiting.png",
+                                              "role":  "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/waiting.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "state requires its own generated animation semantics"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffee7-6d0d-7941-9de2-e5736c5ab2b1\\exec-85fa6388-caec-4c35-8695-b4ad668349d6.png",
+                     "completed_at":  "2026-08-14T06:18:17Z"
+                 },
+                 {
+                     "id":  "running",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/running.md",
+                     "retry_prompt_file":  "prompts/row-retries/running.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/running.png",
+                                              "role":  "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/running.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "state requires its own generated animation semantics"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffee7-bf7c-7993-9362-cca57d36cbd8\\exec-01c70424-6678-4a03-9e02-d6c676b091de.png",
+                     "completed_at":  "2026-08-14T06:18:57Z"
+                 },
+                 {
+                     "id":  "review",
+                     "kind":  "row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/review.md",
+                     "retry_prompt_file":  "prompts/row-retries/review.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-04.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/review.png",
+                                              "role":  "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/review.png",
+                     "depends_on":  [
+                                        "base"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "parallelizable_after":  [
+                                                  "base"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "state requires its own generated animation semantics"
+                                           },
+                     "mirror_policy":  {
+
+                                       },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffee8-46f3-7622-ae2b-62ffea8e8faa\\exec-0a4a4446-3a0f-47cc-a8fe-03df1a9f383b.png",
+                     "completed_at":  "2026-08-14T06:19:29Z"
+                 },
+                 {
+                     "id":  "look-cardinals",
+                     "kind":  "look-cardinal-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/look-cardinals.md",
+                     "repair_prompt_files":  {
+                                                 "000":  "prompts/look-anchor-repairs/000.md",
+                                                 "090":  "prompts/look-anchor-repairs/090.md",
+                                                 "180":  "prompts/look-anchor-repairs/180.md",
+                                                 "270":  "prompts/look-anchor-repairs/270.md"
+                                             },
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references\\reference-05.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/look-cardinals.png",
+                                              "role":  "layout guide for four cardinal slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          },
+                                          {
+                                              "path":  "qa/contact-sheet.png",
+                                              "role":  "approved standard-row identity, scale, and baseline reference"
+                                          }
+                                      ],
+                     "output_path":  "decoded/look-cardinals.png",
+                     "extracted_output_paths":  [
+                                                    "decoded/look-anchors/000.png",
+                                                    "decoded/look-anchors/090.png",
+                                                    "decoded/look-anchors/180.png",
+                                                    "decoded/look-anchors/270.png"
+                                                ],
+                     "approved_strip_path":  "decoded/look-anchors-approved.png",
+                     "depends_on":  [
+                                        "idle",
+                                        "running-right",
+                                        "running-left",
+                                        "waving",
+                                        "jumping",
+                                        "failed",
+                                        "waiting",
+                                        "running",
+                                        "review"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "look_mechanics_file":  "qa/look-mechanics.md",
+                     "directions":  [
+                                        "000",
+                                        "090",
+                                        "180",
+                                        "270"
+                                    ],
+                     "packaging_eligible":  false,
+                     "parallelizable_after":  [
+                                                  "idle",
+                                                  "running-right",
+                                                  "running-left",
+                                                  "waving",
+                                                  "jumping",
+                                                  "failed",
+                                                  "waiting",
+                                                  "running",
+                                                  "review"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "cardinal directions require grounded pet-specific generation"
+                                           },
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019ffefb-df92-72e2-8328-63b3ac97f92e\\exec-08ada674-bcbb-4a6a-a348-d8668cb237d5.png",
+                     "completed_at":  "2026-08-14T06:43:58Z"
+                 },
+                 {
+                     "id":  "look-row-9",
+                     "kind":  "look-row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/look-row-9.md",
+                     "retry_prompt_file":  "prompts/row-retries/look-row-9.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references\\reference-02.png",
+                                              "role":  "pet reference"
+                                          },
+                                          {
+                                              "path":  "references/layout-guides/look-row-9.png",
+                                              "role":  "layout guide for 8 direction slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          },
+                                          {
+                                              "path":  "qa/contact-sheet.png",
+                                              "role":  "approved standard-row identity, scale, and baseline reference"
+                                          },
+                                          {
+                                              "path":  "decoded/look-anchors-approved.png",
+                                              "role":  "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+                                          }
+                                      ],
+                     "output_path":  "decoded/look-row-9.png",
+                     "depends_on":  [
+                                        "look-cardinals"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "look_mechanics_file":  "qa/look-mechanics.md",
+                     "directions":  [
+                                        "000",
+                                        "022.5",
+                                        "045",
+                                        "067.5",
+                                        "090",
+                                        "112.5",
+                                        "135",
+                                        "157.5"
+                                    ],
+                     "parallelizable_after":  [
+                                                  "look-cardinals"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "look directions require grounded pet-specific generation"
+                                           },
+                     "coherent_synthesis_required":  true,
+                     "individual_cell_packaging_allowed":  false,
+                     "packaging_eligible":  true,
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019fff03-9caa-7480-86cf-136b57824f79\\exec-cc9aa59d-89a1-4687-9df1-c0d824c140c4.png",
+                     "completed_at":  "2026-08-14T06:55:54Z"
+                 },
+                 {
+                     "id":  "look-row-10",
+                     "kind":  "look-row-strip",
+                     "status":  "complete",
+                     "prompt_file":  "prompts/rows/look-row-10.md",
+                     "retry_prompt_file":  "prompts/row-retries/look-row-10.md",
+                     "input_images":  [
+                                          {
+                                              "path":  "references/layout-guides/look-row-10.png",
+                                              "role":  "layout guide for 8 direction slots; use for spacing only, do not copy guide lines"
+                                          },
+                                          {
+                                              "path":  "references/canonical-base.png",
+                                              "role":  "canonical identity reference"
+                                          },
+                                          {
+                                              "path":  "qa/contact-sheet.png",
+                                              "role":  "approved standard-row identity, scale, and baseline reference"
+                                          },
+                                          {
+                                              "path":  "decoded/look-anchors-approved.png",
+                                              "role":  "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+                                          },
+                                          {
+                                              "path":  "decoded/look-row-9.png",
+                                              "role":  "completed first half of the clockwise look loop for row 10 continuity"
+                                          }
+                                      ],
+                     "output_path":  "decoded/look-row-10.png",
+                     "depends_on":  [
+                                        "look-cardinals",
+                                        "look-row-9"
+                                    ],
+                     "generation_skill":  "$imagegen",
+                     "requires_grounded_generation":  true,
+                     "allow_prompt_only_generation":  false,
+                     "identity_reference_paths":  [
+                                                      "references/canonical-base.png"
+                                                  ],
+                     "look_mechanics_file":  "qa/look-mechanics.md",
+                     "directions":  [
+                                        "180",
+                                        "202.5",
+                                        "225",
+                                        "247.5",
+                                        "270",
+                                        "292.5",
+                                        "315",
+                                        "337.5"
+                                    ],
+                     "parallelizable_after":  [
+                                                  "look-cardinals",
+                                                  "look-row-9"
+                                              ],
+                     "derivation_policy":  {
+                                               "may_derive":  false,
+                                               "reason":  "look directions require grounded pet-specific generation"
+                                           },
+                     "coherent_synthesis_required":  true,
+                     "individual_cell_packaging_allowed":  false,
+                     "packaging_eligible":  true,
+                     "source_path":  "C:\\Users\\WangChen\\.codex\\generated_images\\019fff0e-a4db-7e80-ba6e-a3215b733ae1\\exec-5573e2b2-8ff6-43ac-9913-45dec363aeac.png",
+                     "completed_at":  "2026-08-14T07:15:06Z"
+                 }
+             ]
+}

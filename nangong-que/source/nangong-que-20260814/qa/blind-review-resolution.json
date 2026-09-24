@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "reviewed": true,
+  "disposition": "accept",
+  "items": [
+    {
+      "pair": "horizontal-1",
+      "gate": "review",
+      "resolution": "accepted as a subtle near-up transition",
+      "reason": "The 022.5 and 337.5 frames are both intentionally dominated by the upward axis. Their restrained horizontal cue is documented in independent semantic QA, while the adjacent 045, 315 and the hard left/right cardinals remain correct. No cardinal reversal is present."
+    },
+    {
+      "pair": "vertical-7",
+      "gate": "review",
+      "resolution": "accepted as a subtle near-left transition",
+      "reason": "The 247.5 downward component is intentionally restrained near the 270 left cardinal. Two blind reviewers classified it down, one marked it ambiguous, and deterministic plus independent semantic review found no up/down reversal."
+    }
+  ],
+  "hard_gate_status": "pass",
+  "repair_required": false
+}

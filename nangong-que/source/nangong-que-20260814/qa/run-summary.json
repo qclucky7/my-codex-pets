@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "pet_id": "nangong-que",
+  "display_name": "南宫阙",
+  "run_id": "nangong-que-20260814",
+  "sprite_version_number": 2,
+  "release": {
+    "pet_json": "D:/github/my-codex-pets/nangong-que/pet.json",
+    "spritesheet": "D:/github/my-codex-pets/nangong-que/spritesheet.webp",
+    "contact_sheet": "D:/github/my-codex-pets/nangong-que/assets/contact-sheet.png"
+  },
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "format": "RGBA WebP",
+    "validation": "pass",
+    "warnings": []
+  },
+  "content": {
+    "standard_rows": 9,
+    "look_directions": 16,
+    "jumping_design": "grounded front-facing sleeve-and-seal gesture; no jump or vertical displacement"
+  },
+  "qa": {
+    "standard_rows": "pass",
+    "direction_semantics": "pass_with_reviewed_warnings",
+    "blind_direction_validation": "pass_with_reviewed_warnings",
+    "continuity": "pass_with_reviewed_warnings",
+    "final_visual_qa": "pass",
+    "repair_required": false
+  },
+  "traceability": {
+    "canonical_base": "references/canonical-base.png",
+    "rejected_running_left": "qa/rejected/running-left-mirror.png",
+    "final_validation": "final/validation-release.json",
+    "blind_validation": "qa/direction-blind-validation.json",
+    "blind_resolution": "qa/blind-review-resolution.json",
+    "final_visual_qa": "qa/final-visual-qa.txt"
+  }
+}

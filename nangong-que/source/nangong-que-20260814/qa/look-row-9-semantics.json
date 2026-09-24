@@ -1,0 +1,17 @@
+{
+  "row": "look-row-9",
+  "visual_qa": "pass",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"clearly upward with centered frontal head","horizontal_evidence":"nose tip, forehead mark, and facial midline remain centered","vertical_evidence":"chin lifted and both irises high in the almond eye apertures","reason":"up cardinal unmistakable at pet size"},
+    {"direction":"022.5","verdict":"warning","expected":"up-right","observed":"mostly upward with subtle screen-right turn","horizontal_evidence":"nose and facial midline shift slightly screen-right","vertical_evidence":"chin lifted and irises visibly high","reason":"correct quadrant and continuity; horizontal component subtle"},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"clear upward and screen-right three-quarter gaze","horizontal_evidence":"nose tip and pupils displaced screen-right with opposing cheek exposure","vertical_evidence":"chin raised and eye line above horizontal center","reason":"both axes clear"},
+    {"direction":"067.5","verdict":"warning","expected":"up-right","observed":"strong screen-right turn with restrained upward component","horizontal_evidence":"nose tip, pupils, and face plane decisively screen-right","vertical_evidence":"chin and eye line remain slightly elevated","reason":"correct quadrant; upward cue subtle near right cardinal"},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"unmistakable screen-right cardinal","horizontal_evidence":"nose projection, pupils, and three-quarter face plane point to image-right","vertical_evidence":"eye line and chin approximately level","reason":"right cardinal definite"},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"screen-right gaze beginning a clear downward arc","horizontal_evidence":"nose and visible eye direction remain screen-right of head center","vertical_evidence":"chin begins to tuck and irises sit lower than at 090","reason":"both axes readable"},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"clear down-right bowed three-quarter gaze","horizontal_evidence":"nose, pupils, and face plane remain screen-right","vertical_evidence":"chin lowered toward collar and eyes aim below facial center","reason":"diagonal unmistakable"},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"predominantly downward with restrained screen-right component","horizontal_evidence":"nose and face plane remain slightly screen-right","vertical_evidence":"head distinctly bowed and irises aim downward","reason":"natural one-step approach to 180"}
+  ],
+  "continuity": "pass",
+  "edge_clipping": "pass",
+  "repair_note": "none"
+}

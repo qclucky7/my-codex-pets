@@ -1,0 +1,17 @@
+{
+  "row": "look-row-10",
+  "visual_qa": "pass",
+  "directions": [
+    {"direction":"180","verdict":"pass","expected":"down","observed":"unmistakable frontal downward gaze with restrained chin tuck","horizontal_evidence":"forehead mark, nose tip, facial midline, hands, and robe center remain centered","vertical_evidence":"chin points toward collar, eyelids lower, and both irises aim below eye centers","reason":"down cardinal definite"},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"clear screen-left three-quarter turn retaining downward gaze","horizontal_evidence":"nose tip, pupils, and face plane shift image-left","vertical_evidence":"chin remains tucked and eye line stays below level","reason":"both axes readable"},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"balanced down-left three-quarter gaze","horizontal_evidence":"nose projection and visible eye cues aim screen-left","vertical_evidence":"lowered chin and irises preserve downward component","reason":"correct quadrant and stable identity"},
+    {"direction":"247.5","verdict":"warning","expected":"down-left","observed":"strong screen-left turn with subtle remaining downward component","horizontal_evidence":"near-profile nose, pupils, and face surface point decisively image-left","vertical_evidence":"chin and eye line remain marginally below level 270","reason":"correct quadrant; vertical distinction subtle without reversal"},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"unmistakable level screen-left cardinal","horizontal_evidence":"nose silhouette, visible pupil, and face plane point image-left","vertical_evidence":"chin and eye line approximately level","reason":"left cardinal definite"},
+    {"direction":"292.5","verdict":"warning","expected":"up-left","observed":"clear screen-left turn beginning restrained upward arc","horizontal_evidence":"nose tip, pupil direction, and face remain decisively screen-left","vertical_evidence":"chin and eye line rise slightly above 270","reason":"correct quadrant; vertical component subtle near cardinal"},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"clear up-left three-quarter gaze","horizontal_evidence":"nose and pupils remain left of head center","vertical_evidence":"chin raised and irises aim upward","reason":"both axes readable"},
+    {"direction":"337.5","verdict":"pass","expected":"up-left","observed":"predominantly upward with restrained screen-left component","horizontal_evidence":"nose and facial midline remain slightly image-left","vertical_evidence":"chin strongly lifted and both irises high in almond apertures","reason":"natural final step toward 000"}
+  ],
+  "continuity": "pass",
+  "edge_clipping": "pass",
+  "repair_note": "none"
+}
