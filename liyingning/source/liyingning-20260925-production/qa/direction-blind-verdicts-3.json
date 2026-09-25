@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A的鼻尖与面部朝画面右侧，B的鼻尖和侧脸朝画面左侧。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A的视线与鼻尖偏右，B的视线与鼻尖偏左。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A露出右向侧脸轮廓，B露出左向侧脸轮廓。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A的鼻尖位于头部中心右侧，B位于左侧。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "两者虽低头，A的脸仍偏向画面右侧，B偏向画面左侧。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A低头时鼻尖偏左，B低头时鼻尖与面部偏右。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A的鼻尖和脸部朝左下，B的鼻尖和脸部朝右侧。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A明显垂眼低头，B抬起下巴并向上看。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A头部俯低、目光向下，B仰头、目光向上。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A下巴抬起且眼睛上望，B低头垂眼。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A的下巴和目光略向下，B的下巴抬高、目光向上。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A明显仰头，B明显俯头并向下看。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A低头垂视，B抬头仰视。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A的头和视线朝下，B的下巴与视线朝上。"
+    }
+  ]
+}

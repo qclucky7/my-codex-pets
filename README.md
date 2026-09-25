@@ -19,6 +19,7 @@
 | 韩立（`hanli`） | 青竹小轩时期的青绿竹纹长袍与沉静锐利眼神，悬停时持古卷推演阵法 | Codex Pet Sprite v2 | [查看角色](hanli/README.md) |
 | 凌玉灵（`lingyuling`） | 灰白金星宫长袍、右侧弧形梳饰与清雅眉眼，悬停时正面双手比心 | Codex Pet Sprite v2 | [查看角色](lingyuling/README.md) |
 | 南宫阙（`nangong-que`） | 黑色高髻、额心银白纹饰与蓝紫银纹长袍的冷静女修，悬停时双脚落地拂袖结印 | Codex Pet Sprite v2 | [查看角色](nangong-que/README.md) |
+| 李缨宁（`liyingning`） | 双辫、灰白青绿侠装、佩剑与暖阳宝玉的灵秀少女，悬停时低头轻触宝玉 | Codex Pet Sprite v2 | [查看角色](liyingning/README.md) |
 
 ## 仓库结构
 

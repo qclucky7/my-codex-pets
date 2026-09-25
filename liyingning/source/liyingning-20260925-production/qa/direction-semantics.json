@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction": "000", "expected": "up", "observed": "front-facing upward gaze", "verdict": "pass", "reason": "正面明显仰视"},
+    {"direction": "022.5", "expected": "up-right", "observed": "up-right", "verdict": "pass", "reason": "视线与面部右偏并上抬"},
+    {"direction": "045", "expected": "up-right", "observed": "up-right", "verdict": "pass", "reason": "右上转向增强"},
+    {"direction": "067.5", "expected": "up-right", "observed": "up-right", "verdict": "pass", "reason": "接近右视但仍明显上抬"},
+    {"direction": "090", "expected": "right", "observed": "right", "verdict": "pass", "reason": "清晰屏幕右视"},
+    {"direction": "112.5", "expected": "down-right", "observed": "down-right", "verdict": "pass", "reason": "右向面部开始下压"},
+    {"direction": "135", "expected": "down-right", "observed": "down-right", "verdict": "pass", "reason": "右下视线明确"},
+    {"direction": "157.5", "expected": "down-right", "observed": "down with subtle right bias", "verdict": "warning", "reason": "低头明确，水平右偏较弱，顺序语境仍属右下"},
+    {"direction": "180", "expected": "down", "observed": "down", "verdict": "pass", "reason": "正下低头明确"},
+    {"direction": "202.5", "expected": "down-left", "observed": "down with subtle left bias", "verdict": "warning", "reason": "低头明确，水平左偏较弱，顺序语境仍属左下"},
+    {"direction": "225", "expected": "down-left", "observed": "down-left", "verdict": "pass", "reason": "左下朝向明确"},
+    {"direction": "247.5", "expected": "down-left", "observed": "down-left", "verdict": "pass", "reason": "接近左视且保持下压"},
+    {"direction": "270", "expected": "left", "observed": "left", "verdict": "pass", "reason": "清晰屏幕左视"},
+    {"direction": "292.5", "expected": "up-left", "observed": "up-left", "verdict": "pass", "reason": "从270左视开始自然抬头"},
+    {"direction": "315", "expected": "up-left", "observed": "up-left", "verdict": "pass", "reason": "左上仰角进一步增加"},
+    {"direction": "337.5", "expected": "up-left", "observed": "near-up with left bias", "verdict": "pass", "reason": "接近正上但鼻尖与面部仍保持屏幕左偏"}
+  ]
+}

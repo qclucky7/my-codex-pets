@@ -1,0 +1,34 @@
+{
+  "pet_id": "liyingning",
+  "display_name": "李缨宁",
+  "status": "complete",
+  "selected_design": "candidate-a",
+  "canonical_base": "references/canonical-base.png",
+  "custom_action": {
+    "row": 4,
+    "name": "jumping",
+    "semantics": "双脚落地，低头注视暖阳宝玉，空手轻触宝玉后回位"
+  },
+  "row_10_repair": {
+    "status": "complete",
+    "reason": "原 row10 的 292.5、315、337.5 错误朝向画面右侧",
+    "result": "三格已改为连续的左上抬头方向，337.5 接近正上但仍保持左偏"
+  },
+  "validation": {
+    "atlas_v2": "pass",
+    "dimensions": "1536x2288",
+    "grid": "8x11",
+    "cell": "192x208",
+    "transparent_rgb_residue_pixels": 0,
+    "row_qa": "pass",
+    "direction_semantics": "pass_with_review_warnings",
+    "blind_review": "pass_with_review_warnings",
+    "continuity": "pass_with_review_warnings",
+    "final_visual_qa": "pass"
+  },
+  "package": {
+    "metadata": "../../../pet.json",
+    "spritesheet": "../../../spritesheet.webp",
+    "contact_sheet": "../../../assets/contact-sheet.png"
+  }
+}
