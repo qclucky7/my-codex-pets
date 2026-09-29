@@ -23,4 +23,5 @@ temp/
 *.tmp
 *.log
 
-# Keep pet source, QA artifacts, previews, and release images tracked.
+# Pet production sources are kept locally and excluded from releases.
+/*/source/
