@@ -1,0 +1,185 @@
+{
+  "pet_id": "hanli-jiedan-peak",
+  "release_date": "2026-10-08",
+  "source_run": "source/hanli-jiedan-peak-20261008-face-refactor",
+  "sprite_version_number": 2,
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208
+  },
+  "sha256": {
+    "pet.json": "087a33c8a6f58350f01dad28325e9c68ba8c1db5ca849c0999fa471b84294f4f",
+    "spritesheet.webp": "046255a6034b86eda3cfe6a4ee4cc2dd6a537b27ecd2288999e23a62f8853342",
+    "assets/failed.gif": "cda3e1fcec35ff8c0f3ff7a63daed4c3d1e7ab545f9417d4027c2105a3c51f3a",
+    "assets/idle.gif": "ed1bd96bda96b6f748481e14162ac26e9927fcd8363ef068bd74a5cde13bf7ef",
+    "assets/jumping.gif": "bf5c12d8c534d789fc19f4d33d06549ab19d27b0c467cdfa36fc329ef8c0e0d6",
+    "assets/review.gif": "6aadb8c322869e6846948dd8ab0844dad375f77b9c9fe26136b5f019b35aa5d6",
+    "assets/running-left.gif": "00633268c6734e4421ccf2e25cb1f6f8bbedd602e95d7b8000ac3b153a6971ba",
+    "assets/running-right.gif": "19a013449859a1bdee4d74dc3f5762a055a483e66be32078b1c560406d3d22de",
+    "assets/running.gif": "b3a7c01b8d7d0e484651d2d6405c4dcaa607a1128ba91389661000c907d1db64",
+    "assets/waiting.gif": "7b92b2a0bc90b6058be8baddde989b7dcf8e8c4270ee434450f1a0215a54bee2",
+    "assets/waving.gif": "1f490c7fddad710382622e97911d458cb9bc3bf421f30548cde528687ad2d628",
+    "assets/contact-sheet.png": "6c6591c104090a9ff2237f8b5157fe786df8a6a5df820e2f40f9f39945fcf46d",
+    "assets/look-directions.png": "320d85e05ac73ad765b9d00996cbfe5674c13f9b15281ad484a55697da471d84"
+  },
+  "validation": {
+    "tool": "hatch-pet/validate_atlas.py --require-v2",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  "chroma_cleanup": {
+    "ok": true,
+    "algorithm": "edge-local-chroma-spill-suppression",
+    "alpha_preserved": true
+  },
+  "blind_direction_validation": {
+    "reviewers": 3,
+    "ok": true,
+    "errors": [],
+    "warnings": [],
+    "confirmed_axis_cells": 28
+  },
+  "continuity": {
+    "ok": true,
+    "warnings": [
+      "157.5->180 diff is a local outlier (4809 pixels vs neighbor average 1982)",
+      "157.5->180 sprite area ratio is high (1.19)",
+      "270->292.5 diff is a local outlier (1728 pixels vs neighbor average 1172)"
+    ],
+    "alpha_holes": []
+  },
+  "visual_qa": {
+    "reviewer": "independent-final-visual-qa",
+    "verdict": "pass",
+    "note": "Corrected 202.5 is down-left. Rows 0-8 and both look rows preserve the same face, black-and-gold costume, ponytail, rigid spear, series-compatible 3D chibi rendering, stable baseline, and readable small-size silhouette.",
+    "standard_states": {
+      "verdict": "pass",
+      "notes": "Directional running faces the correct screen side with alternating gait; idle includes a blink; waving, failure, waiting, active work, and review are distinct. User-approved jumping replacement is a feet-grounded touch-spear action. No obvious cropped bodies, detached effects, or unintended scale popping."
+    },
+    "accepted_warnings": [
+      "157.5->180 diff and area ratio 1.19 are accepted: the right profile changes to a frontal bowed-head silhouette with more visible coat area; normal-size review shows matching height, feet baseline, identity, and spear construction without conspicuous scale popping.",
+      "270->292.5 diff outlier is accepted: lifting the head changes face/hair pixels while body size and baseline remain stable; no snap or gaze reversal.",
+      "337.5 has subtle leftward horizontal evidence in an otherwise near-frontal upward pose; accepted as a minor intermediate warning based on visible gaze and coherent 315->337.5->000 progression."
+    ],
+    "repair_rows": []
+  },
+  "direction_semantics": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "reason": "Face is horizontally centered; raised chin, upward nose axis, and eyes above neutral establish up."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "reason": "Horizontal: nose and facial axis turn screen-right. Vertical: raised chin and upward eye line establish up."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "reason": "Horizontal: nose projects screen-right with right-facing facial surface. Vertical: lifted chin and gaze above neutral establish up."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "reason": "Horizontal: right-facing profile and nose are definite. Vertical: slight lifted chin and elevated eye line retain up."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "reason": "Nose tip projects screen-right of head center; visible facial surface and pupils face right with a near-level chin."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "reason": "Horizontal: nose and face point screen-right. Vertical: lowered chin and pupils directed below neutral establish down."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "reason": "Horizontal: rightward nose and profile remain clear. Vertical: bowed face and lowered eye line establish down."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "reason": "Horizontal: nose still points screen-right. Vertical: deepened head bow and downward facial axis establish down."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "reason": "Face is horizontally centered; lowered chin, downward nose axis, and eyes toward the chest establish down."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "reason": "Horizontal: repaired face and nose now turn screen-left, with the visible ear on screen-right of the face. Vertical: bowed chin and lowered eyes establish down."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "reason": "Horizontal: nose projects screen-left with left-facing facial surface. Vertical: lowered chin and downward eyes establish down."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "reason": "Horizontal: leftward nose and profile remain definite. Vertical: chin below neutral and descending gaze retain down."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "reason": "Nose tip projects screen-left of head center; visible facial surface and pupils face left with a near-level chin."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "reason": "Horizontal: nose and facial surface aim screen-left. Vertical: chin lifts and pupils look above neutral."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "reason": "Horizontal: nose and face still point screen-left. Vertical: stronger lifted chin and upward eyes establish up."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "reason": "Horizontal: near-frontal face retains a subtle screen-left nose/eye orientation as it returns toward 000; weaker than 315. Vertical: raised chin and upward pupils clearly establish up. Accepted minor intermediate-axis uncertainty; no wrong quadrant or reversal."
+    }
+  ]
+}
