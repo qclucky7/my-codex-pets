@@ -24,6 +24,7 @@
 | 南宫阙（`nangong-que`） | 黑色高髻、额心银白纹饰与蓝紫银纹长袍的冷静女修，悬停时双脚落地拂袖结印 | Codex Pet Sprite v2 | [查看角色](nangong-que/README.md) |
 | 李缨宁（`liyingning`） | 双辫、灰白青绿侠装、佩剑与暖阳宝玉的灵秀少女，悬停时低头轻触宝玉 | Codex Pet Sprite v2 | [查看角色](liyingning/README.md) |
 | 仲神师（`zhong-shenshi`） | 黑色巾帽、短须与蓝灰法袍，右手持折扇，悬停时左手掐指推演并变化表情 | Codex Pet Sprite v2 | [查看角色](zhong-shenshi/README.md) |
+| 柳玉（`liuyu`） | 黑色半束长发、蓝色额坠、绿衣紫肩与金铜饰件，悬停时双手交叉放在胸前 | Codex Pet Sprite v2 | [查看角色](liuyu/README.md) |
 
 ## 仓库结构
 
