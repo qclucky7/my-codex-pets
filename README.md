@@ -25,6 +25,7 @@
 | 李缨宁（`liyingning`） | 双辫、灰白青绿侠装、佩剑与暖阳宝玉的灵秀少女，悬停时低头轻触宝玉 | Codex Pet Sprite v2 | [查看角色](liyingning/README.md) |
 | 仲神师（`zhong-shenshi`） | 正面成熟造型、黑色巾帽与蓝灰法袍，待机持银扇轻扇，悬停时左手掐指推演并变化表情 | Codex Pet Sprite v2 | [查看角色](zhong-shenshi/README.md) |
 | 柳玉（`liuyu`） | 黑色半束长发、蓝色额坠、绿衣紫肩与金铜饰件，悬停时双手交叉放在胸前 | Codex Pet Sprite v2 | [查看角色](liuyu/README.md) |
+| 菡云芝（`han-yunzhi`） | 黑褐半束长发、青玉藤叶发饰、绿衣紫肩与青色长靴，悬停时正面双手叉腰 | Codex Pet Sprite v2 | [查看角色](han-yunzhi/README.md) |
 
 ## 仓库结构
 
@@ -42,6 +43,8 @@ my-codex-pets/
 ```
 
 后续《凡人修仙传》角色直接添加为新的顶层目录，例如 `hanli/`。目录名必须与 `pet.json` 的 `id` 一致，使用小写 ASCII kebab-case。
+
+`han-yunzhi/` 保存菡云芝已批准的正面形象、9 套标准动作、16 个观察方向、发布文件与本地源工程；`jumping` 定制为双手叉腰。
 
 ## 安装 pet
 
