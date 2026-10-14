@@ -28,12 +28,6 @@
 | 菡云芝（`han-yunzhi`） | 黑褐半束长发、青玉藤叶发饰、绿衣紫肩与青色长靴，悬停时正面双手叉腰 | Codex Pet Sprite v2 | [查看角色](han-yunzhi/README.md) |
 | 魏无涯（`wei-wuya`） | 灰黑长发胡须、青绿宽袖法袍，正面托掌待机，站立召唤正面毒蛟，蛇身在背后盘绕 | Codex Pet Sprite v2 | [查看角色](wei-wuya/README.md) |
 
-魏无涯最新预览：[完整动作与安装说明](wei-wuya/README.md)。
-
-| 默认待机 | 正面毒蛟站立 |
-| --- | --- |
-| ![魏无涯待机](wei-wuya/assets/idle.gif) | ![魏无涯站立毒蛟](wei-wuya/assets/jumping.gif) |
-
 ## 仓库结构
 
 ```text
