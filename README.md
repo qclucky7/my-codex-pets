@@ -26,6 +26,13 @@
 | 仲神师（`zhong-shenshi`） | 正面成熟造型、黑色巾帽与蓝灰法袍，待机持银扇轻扇，悬停时左手掐指推演并变化表情 | Codex Pet Sprite v2 | [查看角色](zhong-shenshi/README.md) |
 | 柳玉（`liuyu`） | 黑色半束长发、蓝色额坠、绿衣紫肩与金铜饰件，悬停时双手交叉放在胸前 | Codex Pet Sprite v2 | [查看角色](liuyu/README.md) |
 | 菡云芝（`han-yunzhi`） | 黑褐半束长发、青玉藤叶发饰、绿衣紫肩与青色长靴，悬停时正面双手叉腰 | Codex Pet Sprite v2 | [查看角色](han-yunzhi/README.md) |
+| 魏无涯（`wei-wuya`） | 灰黑长发胡须、青绿宽袖法袍，正面托掌待机，站立召唤正面毒蛟，蛇身在背后盘绕 | Codex Pet Sprite v2 | [查看角色](wei-wuya/README.md) |
+
+魏无涯最新预览：[完整动作与安装说明](wei-wuya/README.md)。
+
+| 默认待机 | 正面毒蛟站立 |
+| --- | --- |
+| ![魏无涯待机](wei-wuya/assets/idle.gif) | ![魏无涯站立毒蛟](wei-wuya/assets/jumping.gif) |
 
 ## 仓库结构
 
@@ -45,6 +52,8 @@ my-codex-pets/
 后续《凡人修仙传》角色直接添加为新的顶层目录，例如 `hanli/`。目录名必须与 `pet.json` 的 `id` 一致，使用小写 ASCII kebab-case。
 
 `han-yunzhi/` 保存菡云芝已批准的正面形象、9 套标准动作、16 个观察方向、发布文件与本地源工程；`jumping` 定制为双手叉腰。
+
+`wei-wuya/` 保存魏无涯已批准的正面形象、9 套标准动作、16 个观察方向、v2 发布文件与本地源工程；`jumping` 为站立召蛟动作，毒蛟正面朝向镜头、位于画面右肩后并在背后盘绕，人物保持待机尺度与双脚落地。
 
 ## 安装 pet
 
